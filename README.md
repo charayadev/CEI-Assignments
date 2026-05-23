@@ -20,9 +20,10 @@ The project demonstrates the complete workflow of:
 
 | File Name | Description |
 |---|---|
-| `shopping_data.csv` | Original raw shopping dataset |
+| `Combined_dataset.csv` | Original raw shopping dataset |
 | `shopping_data_cleaned.csv` | Cleaned dataset after preprocessing |
 | `shopping_data_cleaning_analysis.ipynb` | Jupyter Notebook containing complete analysis and cleaning workflow |
+| `requirements.txt` | txt file about the things need in the project |
 
 ---
 
@@ -32,7 +33,6 @@ The project demonstrates the complete workflow of:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
