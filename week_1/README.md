@@ -23,7 +23,7 @@ The project demonstrates the complete workflow of:
 | `Combined_dataset.csv` | Original raw shopping dataset |
 | `shopping_data_cleaned.csv` | Cleaned dataset after preprocessing |
 | `shopping_data_cleaning_analysis.ipynb` | Jupyter Notebook containing complete analysis and cleaning workflow |
-| `requirements.txt` | txt file about the things need in the project |
+| `requirements.txt` | List of required Python libraries and dependencies used in the project|
 
 ---
 
@@ -94,3 +94,6 @@ Through this project, I gained practical experience in:
 # Author
 
 **Dev Charaya**
+
+***Celebal Excellence Internship***
+# Week 1 Project Submission
