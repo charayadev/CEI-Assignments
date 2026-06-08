@@ -49,9 +49,11 @@ The work here demonstrates applied proficiency in:
 CEI-Assignments/
 │
 ├── Week-01-Pandas-Data-Cleaning/    # Python & Pandas data cleaning project
-│
+|
 ├── Week-02-SQL-Sales-Analysis/      # PostgreSQL sales analysis project
-│
+|
+|── Week-03-SQL-Advanced-Analytics/  # PostgreSQL Superstore Advanced SQL Analytics
+|
 ├── .gitignore
 └── README.md
 ```
@@ -64,6 +66,7 @@ CEI-Assignments/
 |---|---|---|---|
 | Week 01 | Pandas Data Cleaning and Analysis | Data Cleaning & EDA | Python, Pandas, CSV |
 | Week 02 | SQL Sales Analysis Project | Database Analysis | PostgreSQL, pgAdmin 4, SQL |
+| Week 03 | Advanced SQL Analytics – Subqueries, CTEs & Window Functions | Advanced SQL Analytics | PostgreSQL, pgAdmin 4, SQL |
 
 ---
 
@@ -113,6 +116,28 @@ Loaded a sales dataset into a PostgreSQL database and performed 27 structured SQ
 `SELECT` · `WHERE` · `GROUP BY` · `HAVING` · `ORDER BY` · `INNER JOIN` · `LEFT JOIN` · `CASE` · `Aggregations` · `Constraints` · `Transactions` · `ACID Properties` · `Data Validation`
 
 ---
+
+### 📌 Week 03 — Advanced SQL Analytics Using Subqueries, CTEs, and Window Functions
+
+> **Domain:** Advanced SQL Analytics
+> **Database:** PostgreSQL | **Tool:** pgAdmin 4 | **Dataset:** Superstore (Kaggle)
+
+**Overview:**
+Applied advanced SQL techniques to the Superstore dataset — normalising a flat CSV into relational tables and performing layered customer sales analysis using Subqueries, CTEs, and Window Functions.
+
+**Objectives Completed:**
+- Imported Superstore CSV into PostgreSQL and created a raw staging table
+- Normalised data into `customers`, `orders`, and `products` tables
+- Used subqueries to filter orders above average sales
+- Built CTEs to calculate and compare per-customer total sales
+- Applied `RANK()`, `DENSE_RANK()`, and `ROW_NUMBER()` with `PARTITION BY`
+- Identified Top 5 and Bottom 5 customers by revenue
+- Built a final combined query using JOIN + CTE + Window Function
+
+**SQL Concepts Covered:**
+
+`Subqueries` · `CTEs` · `Window Functions` · `RANK()` · `DENSE_RANK()` · `ROW_NUMBER()` · `PARTITION BY` · `JOINs` · `Aggregations` · `GROUP BY`
+
 
 ## 🧠 Key Learning Outcomes
 
