@@ -196,8 +196,8 @@ Week-04-azure-retail-analytics-medallion-adf/
 │   └── architecture-diagram.png
 │
 ├── dataset/                        # Source and output datasets
-│   ├── Sample-Superstore.csv
-│   └── superstore_cleaned.csv
+│   ├── Superstore.csv
+│   
 │
 └── README.md
 ```
@@ -255,11 +255,11 @@ The pipeline executed without errors. The `Get Metadata` activity successfully v
 
 ## 👤 Author
 
-**[Your Name]**
+**Dev Charaya**
 *Data Engineer | Azure | Python | SQL*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-charaya21/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/charayadev)
 
 ---
 
