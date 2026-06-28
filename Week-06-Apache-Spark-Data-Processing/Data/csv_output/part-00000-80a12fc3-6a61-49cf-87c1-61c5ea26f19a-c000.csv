@@ -1,0 +1,13 @@
+product_id,product_name,category,price,base_price,user_id,status,amount,region,priority
+101,Wireless Mouse,Electronics,799.0,677.12,1001.0,Completed,1598,North,High
+102,Bluetooth Speaker,Electronics,2499.0,2117.8,1002.0,Pending,2499,South,Medium
+104,Notebook Pack,Stationery,299.0,253.39,1004.0,Completed,1196,East,High
+105,USB Cable,Electronics,199.0,168.64,1005.0,Cancelled,398,West,Low
+106,LED Monitor,Electronics,12999.0,11016.1,1006.0,Completed,12999,North,High
+108,Laptop Stand,Electronics,1499.0,1270.34,1008.0,Completed,2998,East,High
+109,Desk Lamp,Home,899.0,761.86,1009.0,Pending,899,North,Low
+110,Keyboard,Electronics,1099.0,931.36,1010.0,Completed,2198,West,High
+111,Headphones,Electronics,3499.0,2965.25,1011.0,Completed,3499,North,Medium
+112,Pen Set,Stationery,149.0,126.27,1012.0,Completed,1043,South,High
+113,Coffee Mug,Home,399.0,338.14,1013.0,Returned,399,East,Low
+114,Smart Watch,Electronics,8999.0,7626.27,1014.0,Completed,8999,North,High

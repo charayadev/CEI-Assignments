@@ -1,0 +1,143 @@
+# ============================================================
+# Apache Spark Data Engineering Project — .gitignore
+# Week-06 · Celebal Technologies Data Engineer Internship
+# ============================================================
+
+# --------------------------
+# Jupyter Notebook Artifacts
+# --------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --------------------------
+# Python Cache & Bytecode
+# --------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# --------------------------
+# Python Packaging
+# --------------------------
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# --------------------------
+# Virtual Environments
+# --------------------------
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# --------------------------
+# Logs & Temporary Files
+# --------------------------
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+
+# --------------------------
+# Spark Logs & Metadata
+# --------------------------
+derby.log
+metastore_db/
+spark-warehouse/
+
+# --------------------------
+# IDE & Editor Configs
+# --------------------------
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# --------------------------
+# OS-Generated Files
+# --------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+
+# --------------------------
+# Compiled / Binary Files
+# --------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.so
+*.dll
+*.exe
+
+# --------------------------
+# Coverage & Testing Reports
+# --------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+test-results/
+
+# --------------------------
+# Documentation Build
+# --------------------------
+docs/_build/
+site/
+
+# ============================================================
+# NOT IGNORED — Intentionally Tracked
+# ============================================================
+# Data/              ← Custom dataset (CSV + Parquet)
+# notebook/          ← Assignment notebook with all answers
+# csv_output/        ← Spark-generated CSV output
+# README.md          ← Project documentation
+# .gitignore         ← This file
+# ============================================================

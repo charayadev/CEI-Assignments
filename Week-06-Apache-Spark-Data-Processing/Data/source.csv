@@ -1,0 +1,16 @@
+product_id,product_name,category,price,base_price,user_id,status,amount,region,priority
+101,Wireless Mouse,Electronics,799.00,677.12,1001,Completed,1598,North,High
+102,Bluetooth Speaker,Electronics,2499.00,2117.8,1002,Pending,2499,South,Medium
+103,Office Chair,Furniture,5999.00,5083.9,,Completed,5999,North,Low
+104,Notebook Pack,Stationery,299.00,253.39,1004,Completed,1196,East,High
+105,USB Cable,Electronics,199.00,168.64,1005,Cancelled,398,West,Low
+106,LED Monitor,Electronics,12999.00,11016.1,1006,Completed,12999,North,High
+107,Water Bottle,Home,499.00,422.88,,Completed,1497,South,Medium
+108,Laptop Stand,Electronics,1499.00,1270.34,1008,Completed,2998,East,High
+109,Desk Lamp,Home,899.00,761.86,1009,Pending,899,North,Low
+110,Keyboard,Electronics,1099.00,931.36,1010,Completed,2198,West,High
+111,Headphones,Electronics,3499.00,2965.25,1011,Completed,3499,North,Medium
+112,Pen Set,Stationery,149.00,126.27,1012,Completed,1043,South,High
+113,Coffee Mug,Home,399.00,338.14,1013,Returned,399,East,Low
+114,Smart Watch,Electronics,8999.00,7626.27,1014,Completed,8999,North,High
+115,Gaming Mouse,Electronics,1999.00,1694.07,,Completed,3998,West,Medium
