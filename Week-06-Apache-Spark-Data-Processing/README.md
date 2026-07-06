@@ -65,11 +65,12 @@ Week-06-Apache-Spark-Data-Processing/
 │   ├── 📄 source.csv                        # Custom dataset (CSV format)
 │   └── 📁 parquet_output/
 │       └── 📄 source.parquet                # Parquet-converted dataset
+│   |__ 📁 csv_output/
+│        ├── 📄 part-00000-*.csv                  # Spark-generated CSV output
+│        ├── 📄 _SUCCESS                          # Spark job success marker
+│        └── 📄 _SUCCESS.crc                      # CRC checksum file  
 │
-├── 📁 csv_output/
-│   ├── 📄 part-00000-*.csv                  # Spark-generated CSV output
-│   ├── 📄 _SUCCESS                          # Spark job success marker
-│   └── 📄 _SUCCESS.crc                      # CRC checksum file
+|                  
 │
 ├── 📁 notebook/
 │   └── 📓 Spark_Data_Processing_and_Optimization.ipynb
@@ -240,7 +241,8 @@ Ensure the following are installed before running the project:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Week-06-Apache-Spark-Data-Processing.git
+git clone https://github.com/charayadev/CEI-Assignments.git
+cd CEI-Assignments
 cd Week-06-Apache-Spark-Data-Processing
 ```
 
