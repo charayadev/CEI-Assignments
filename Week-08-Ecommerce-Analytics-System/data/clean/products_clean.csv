@@ -1,0 +1,304 @@
+product_id,product_name,category,subcategory,brand,cost_price,selling_price,stock_quantity
+PROD00001,How Laptops,Electronics,Laptops,Dove,69700.44,107560.75,74
+PROD00002,Career Clothing,Fashion,Clothing,Penguin,7699.44,13344.44,92
+PROD00003, Adult Laptops ,Electronics,Laptops,Penguin,23983.32,47677.98,437
+PROD00004,Though Comics,Books,Comics,Puma,433.03,945.43,243
+PROD00005,Test Children,Books,Children,Apple,442.6,938.76,317
+PROD00006, Perhaps Personal Care ,Beauty,Personal Care,Nike,1441.57,3286.66,18
+PROD00007,Daughter Clothing,Fashion,Clothing,Adidas,2849.56,4079.3,55
+PROD00008,SCHOOL NON-FICTION,Books,Non-Fiction,Adidas,955.53,2233.33,304
+PROD00009,THROW WATER SPORTS,Sports,Water Sports,Puma,6069.88,11170.3,18
+PROD00010,Hit Headphones,Electronics,Headphones,HarperCollins,10075,19555.43,281
+PROD00011, Hard Headphones ,Electronics,Headphones,HarperCollins,25581.39,53479.92,268
+PROD00012, Set Footwear ,Fashion,Footwear,Loreal,7840.99,16414.48,44
+PROD00013,Husband Comics,Books,Comics,Adidas,697.88,1794.74,132
+PROD00014,Those Water Sports,Sports,Water Sports,Nike,5030.03,10284.38,373
+PROD00015, Street Fragrance ,Beauty,Fragrance,Philips,2091.96,3631.08,99
+PROD00016,ATTORNEY SMARTPHONES,Electronics,Smartphones,Dove,64754.94,155813.5,106
+PROD00017,Take Outdoor,Furniture,Outdoor,IKEA,17034.95,42741.8,108
+PROD00018, Site Laptops ,Electronics,Laptops,Samsung,28082.94,57851.82,165
+PROD00019,SIMPLY LIVING ROOM,Furniture,Living Room,IKEA,16678.55,39804.94,315
+PROD00020,REAL LAPTOPS,Electronics,Laptops,HarperCollins,30345.26,70058.39,469
+PROD00021,Ability Fiction,Books,Fiction,Dove,744.87,1935.05,458
+PROD00022,Support Lighting,Home,Lighting,Loreal,4408.96,9177.73,289
+PROD00023, Word Haircare ,Beauty,Haircare,Philips,5578.3,13941.86,454
+PROD00024,DIFFICULT DINING,Furniture,Dining,Nike,14059.78,18935.15,192
+PROD00025,Senior Personal Care,Beauty,Personal Care,Amazon Basics,1742.82,2571.12,400
+PROD00026,Reflect Dining,Furniture,Dining,Apple,13674.39,19557.07,449
+PROD00027,Outside Accessories,Fashion,Accessories,Sony,4343.27,6786.44,191
+PROD00028,Pick Living Room,Furniture,Living Room,Puma,23757.77,59359.69,463
+PROD00029,HAIR OUTDOOR,Sports,Outdoor,Puma,5939.8,12387.11,397
+PROD00030, Career Furniture ,Home,Furniture,Lenovo,31098.84,46619.52,370
+PROD00031,Start Tablets,Electronics,Tablets,Samsung,5308.24,14324.32,351
+PROD00032,Run Outdoor,Furniture,Outdoor,Apple,6433.42,15757.18,381
+PROD00033,Past Kitchenware,Home,Kitchenware,Sony,15797.86,25099.93,141
+PROD00034,Model Team Sports,Sports,Team Sports,Adidas,1449.77,2479.77,7
+PROD00035, Than Water Sports ,Sports,Water Sports,IKEA,4530.12,7731,482
+PROD00036, Adult Haircare ,Beauty,Haircare,Adidas,5022.12,9080.54,227
+PROD00037,STAND LAPTOPS,Electronics,Laptops,Dove,8784.2,16473.88,44
+PROD00038,BILL CHILDREN,Books,Children,Philips,1347.79,3024.72,353
+PROD00039,Drop Fragrance,Beauty,Fragrance,HarperCollins,1825.73,4450.41,414
+PROD00040,Long Fitness,Sports,Fitness,Puma,4671.98,6724.73,410
+PROD00041,BY FRAGRANCE,Beauty,Fragrance,Adidas,5570.48,13175.99,238
+PROD00042, Change Non-Fiction ,Books,Non-Fiction,Philips,461.27,851.12,93
+PROD00043,Fact Haircare,Beauty,Haircare,Puma,4053.8,5667.41,57
+PROD00044, Cut Lighting ,Home,Lighting,Penguin,16990.46,36733.67,260
+PROD00045,Language Tablets,Electronics,Tablets,IKEA,46711.24,65694.03,154
+PROD00046,Worry Cycling,Sports,Cycling,Philips,2176.42,3348.49,246
+PROD00047,Her Fiction,Books,Fiction,Philips,703.61,1949.22,290
+PROD00048, Often Dining ,Furniture,Dining,Dove,30793.02,74181.94,364
+PROD00049,GENERAL CYCLING,Sports,Cycling,Philips,3864.39,8241.32,420
+PROD00050,Notice Non-Fiction,Books,Non-Fiction,Philips,252.24,635.92,394
+PROD00051,Hit Office,Furniture,Office,Apple,5892.92,14882.87,454
+PROD00052,Impact Fitness,Sports,Fitness,Puma,4390.67,8276.3,295
+PROD00053,FOOD NON-FICTION,Books,Non-Fiction,IKEA,519.63,1294.67,347
+PROD00054,Sound Lighting,Home,Lighting,Samsung,27057.26,59992.33,261
+PROD00055, Window Non-Fiction ,Books,Non-Fiction,Lenovo,1455.06,1893.42,286
+PROD00056,CASE DINING,Furniture,Dining,Adidas,39224.22,64832.21,359
+PROD00057,Difference Cycling,Sports,Cycling,Amazon Basics,3238.05,6857.15,339
+PROD00058,THROUGHOUT WATCHES,Fashion,Watches,Lenovo,3261.38,8762.42,430
+PROD00059,AGREEMENT NON-FICTION,Books,Non-Fiction,HarperCollins,1038.09,1558.61,36
+PROD00060,EVENT SKINCARE,Beauty,Skincare,Puma,5366.04,14823.48,69
+PROD00061,Year Laptops,Electronics,Laptops,Puma,72018.69,168745.97,476
+PROD00062,BAD COMICS,Books,Comics,Lenovo,693.77,1755.31,196
+PROD00063,VIEW FURNITURE,Home,Furniture,Philips,2319.49,4748.54,374
+PROD00064,SITUATION JEWELRY,Fashion,Jewelry,Lenovo,4737.91,6397.09,19
+PROD00065, Start Cycling ,Sports,Cycling,Puma,7705.38,10942.37,373
+PROD00066,Clearly Personal Care,Beauty,Personal Care,Penguin,2451.54,5087.99,267
+PROD00067,AGREE FITNESS,Sports,Fitness,Dove,6010.98,16473.79,39
+PROD00068,Chance Personal Care,Beauty,Personal Care,Apple,7257.61,15259.49,5
+PROD00069,Meet Children,Books,Children,Loreal,564.12,1031.99,500
+PROD00070,WONDER DINING,Furniture,Dining,Apple,31887.2,70038.79,155
+PROD00071,ARM PERSONAL CARE,Beauty,Personal Care,Dove,3943.34,6126.45,26
+PROD00072,Knowledge Haircare,Beauty,Haircare,Adidas,4032.65,6009.58,39
+PROD00073,CANDIDATE DINING,Furniture,Dining,Philips,14081.79,36426.6,7
+PROD00074,High Skincare,Beauty,Skincare,Loreal,1463.74,2883.54,413
+PROD00075, Positive Accessories ,Fashion,Accessories,Nike,6455.16,16738.37,175
+PROD00076,Color Laptops,Electronics,Laptops,HarperCollins,42196.12,117743.14,394
+PROD00077,Measure Non-Fiction,Books,Non-Fiction,Nike,395.2,949.09,176
+PROD00078, During Headphones ,Electronics,Headphones,Nike,39801.12,80173.3,243
+PROD00079,ONTO PERSONAL CARE,Beauty,Personal Care,Dove,5733.18,11534.5,74
+PROD00080,MISS CYCLING,Sports,Cycling,Penguin,3755.92,8705.25,492
+PROD00081,FALL FITNESS,Sports,Fitness,Lenovo,5208.17,14240.57,221
+PROD00082, As Team Sports ,Sports,Team Sports,Samsung,2266.15,4931.74,236
+PROD00083,Compare Bedroom,Furniture,Bedroom,Sony,24357.95,56427.07,92
+PROD00084,PLACE BEDDING,Home,Bedding,Apple,37762.65,49768.99,50
+PROD00085,President Fitness,Sports,Fitness,Loreal,2481.39,3944.47,12
+PROD00086,ASK FITNESS,Sports,Fitness,Philips,5355.86,13674.52,486
+PROD00087, Level Fitness ,Sports,Fitness,HarperCollins,4956.08,9237.82,391
+PROD00088, Serve Personal Care ,Beauty,Personal Care,Samsung,5656.53,9502.99,239
+PROD00089,Set Skincare,Beauty,Skincare,Adidas,6224.07,14553.94,341
+PROD00090,BED DINING,Furniture,Dining,Penguin,5181.87,12776.72,195
+PROD00091, Lawyer Academic ,Books,Academic,HarperCollins,470.53,922.64,251
+PROD00092,Last Jewelry,Fashion,Jewelry,Samsung,1407.82,3453.47,111
+PROD00093,Training Fitness,Sports,Fitness,Samsung,568.43,799,372
+PROD00094,PERFORMANCE LIGHTING,Home,Lighting,Puma,8400.73,18989.87,477
+PROD00095,AGE TABLETS,Electronics,Tablets,Loreal,29737.32,56114.19,1
+PROD00096,Itself Cycling,Sports,Cycling,Loreal,6313.22,15644.62,276
+PROD00097,Drive Clothing,Fashion,Clothing,Penguin,4011.91,8629.08,478
+PROD00098,Case Decor,Home,Decor,Dove,44871.68,101886.16,187
+PROD00099,CARD TEAM SPORTS,Sports,Team Sports,Puma,6155.49,10679.39,103
+PROD00100,TRADE JEWELRY,Fashion,Jewelry,Amazon Basics,5387.65,9419.26,199
+PROD00101,Father Headphones,Electronics,Headphones,Puma,60149.31,90820.31,98
+PROD00102,NICE CAMERAS,Electronics,Cameras,Amazon Basics,9724.45,20526.64,157
+PROD00103,Rate Comics,Books,Comics,Apple,151.86,210.19,403
+PROD00104, You Skincare ,Beauty,Skincare,Dove,5438.34,10809,347
+PROD00105,WEAR OUTDOOR,Furniture,Outdoor,Philips,12018.38,16922.48,376
+PROD00106,Both Watches,Fashion,Watches,Philips,652.67,1535.04,66
+PROD00107,Guess Laptops,Electronics,Laptops,HarperCollins,64527.28,128039.99,87
+PROD00108,FRONT OUTDOOR,Furniture,Outdoor,HarperCollins,6572.24,13444.93,409
+PROD00109,EVERY OUTDOOR,Sports,Outdoor,Sony,3581.83,9016.47,377
+PROD00110,Treat Fragrance,Beauty,Fragrance,Philips,4503.31,8026.63,493
+PROD00111,Cold Bedroom,Furniture,Bedroom,IKEA,4718.54,8072.67,387
+PROD00112,Their Non-Fiction,Books,Non-Fiction,Puma,441.1,958.5,68
+PROD00113, Unit Cameras ,Electronics,Cameras,Puma,11054.2,14490.24,474
+PROD00114,Return Cameras,Electronics,Cameras,Penguin,64418.05,129739.16,64
+PROD00115,Program Footwear,Fashion,Footwear,Amazon Basics,2142.25,3345.82,354
+PROD00116,QUALITY CAMERAS,Electronics,Cameras,Puma,50903.74,72895.77,423
+PROD00117, Account Dining ,Furniture,Dining,Sony,10251.82,28499.09,500
+PROD00118,Doctor Cameras,Electronics,Cameras,Lenovo,43065.56,85972.81,320
+PROD00119,SCIENCE MAKEUP,Beauty,Makeup,Sony,1167.63,1779.27,432
+PROD00120,SEE CHILDREN,Books,Children,Dove,1391.74,1922.05,186
+PROD00121,Trial Furniture,Home,Furniture,Penguin,40273.42,79730.15,53
+PROD00122, Feeling Skincare ,Beauty,Skincare,Penguin,523.8,1085.5,36
+PROD00123,Alone Watches,Fashion,Watches,Sony,6052.57,16024.54,117
+PROD00124, Enjoy Living Room ,Furniture,Living Room,Loreal,19741.6,31585.25,456
+PROD00125,Artist Clothing,Fashion,Clothing,Amazon Basics,1416.05,3811.77,232
+PROD00126,Capital Watches,Fashion,Watches,Sony,5166.56,14276.93,103
+PROD00127,ADULT FURNITURE,Home,Furniture,Philips,4565.02,6869.22,436
+PROD00128,Power Children,Books,Children,Sony,1340.97,2957.45,404
+PROD00129,Him Outdoor,Furniture,Outdoor,Lenovo,38765.17,55423.01,438
+PROD00130, Whatever Cycling ,Sports,Cycling,Puma,6744.82,11592.7,373
+PROD00131,WEST NON-FICTION,Books,Non-Fiction,Amazon Basics,911.25,2403.64,302
+PROD00132,Into Jewelry,Fashion,Jewelry,Apple,608.45,1220.54,393
+PROD00133,Model Fitness,Sports,Fitness,Penguin,6444.73,16317.65,231
+PROD00134,ORGANIZATION NON-FICTION,Books,Non-Fiction,Penguin,117.39,281.46,486
+PROD00135, Who Footwear ,Fashion,Footwear,Samsung,422.66,973.62,82
+PROD00136,Special Fragrance,Beauty,Fragrance,Apple,7818.44,15602.8,70
+PROD00137,PUSH OFFICE,Furniture,Office,HarperCollins,17928.08,35792.4,324
+PROD00138,Live Smartphones,Electronics,Smartphones,Lenovo,7453.56,14451.36,138
+PROD00139,Home Personal Care,Beauty,Personal Care,Penguin,5571.92,12429.19,171
+PROD00140,Land Skincare,Beauty,Skincare,IKEA,7137.43,10466.68,187
+PROD00141,WALK COMICS,Books,Comics,IKEA,345.37,738.47,34
+PROD00142,STOP OUTDOOR,Sports,Outdoor,IKEA,2137.47,3142.8,244
+PROD00143,Foot Personal Care,Beauty,Personal Care,Penguin,6036.63,9888.94,180
+PROD00144, Prevent Bedding ,Home,Bedding,Samsung,18030.99,35676.4,256
+PROD00145,Attention Fitness,Sports,Fitness,HarperCollins,4402.99,7654.14,317
+PROD00146,HOSPITAL KITCHENWARE,Home,Kitchenware,Puma,5754.28,10852.71,91
+PROD00147,LEVEL KITCHENWARE,Home,Kitchenware,Adidas,6817.06,10375.1,77
+PROD00148,Performance Bedroom,Furniture,Bedroom,Adidas,19911.08,46265.49,477
+PROD00149,Research Watches,Fashion,Watches,Dove,465.41,737.02,11
+PROD00150,Start Bedroom,Furniture,Bedroom,IKEA,19702.74,35744.49,330
+PROD00151,Happen Dining,Furniture,Dining,Lenovo,38202.04,75177.2,155
+PROD00152,Hot Outdoor,Sports,Outdoor,Penguin,2302.06,4664.81,497
+PROD00153,FEEL KITCHENWARE,Home,Kitchenware,Adidas,21604.84,33477.66,473
+PROD00154,LARGE JEWELRY,Fashion,Jewelry,Nike,6762.85,15820.26,341
+PROD00155,THREAT BEDROOM,Furniture,Bedroom,Samsung,3769.51,6690.65,64
+PROD00156, Consider Academic ,Books,Academic,Loreal,148.56,263.76,176
+PROD00157,Young Accessories,Fashion,Accessories,Lenovo,2622.01,7028.69,207
+PROD00158,Employee Non-Fiction,Books,Non-Fiction,Nike,106.01,255.24,499
+PROD00159, Enter Team Sports ,Sports,Team Sports,Adidas,7765.96,18880.93,293
+PROD00160,Media Makeup,Beauty,Makeup,Puma,2907.87,4270.13,245
+PROD00161, Thought Laptops ,Electronics,Laptops,Apple,35122.24,89959.13,228
+PROD00162,Born Kitchenware,Home,Kitchenware,Sony,27087.55,44239.81,479
+PROD00163,CERTAIN DINING,Furniture,Dining,Samsung,25151.73,49503.31,343
+PROD00164,Think Cameras,Electronics,Cameras,Philips,50380.84,136789.18,465
+PROD00165,Take Haircare,Beauty,Haircare,Amazon Basics,3146.15,5849.47,145
+PROD00166,Enter Decor,Home,Decor,Lenovo,5766.74,13792.77,227
+PROD00167, Main Fragrance ,Beauty,Fragrance,Penguin,5905.61,15629.7,373
+PROD00168,Leader Non-Fiction,Books,Non-Fiction,Nike,390.9,786.46,444
+PROD00169,ABLE TEAM SPORTS,Sports,Team Sports,Philips,6122.08,8770.94,209
+PROD00170,Bring Haircare,Beauty,Haircare,Loreal,4672.96,12487.59,102
+PROD00171,ANOTHER WATCHES,Fashion,Watches,Puma,625.19,1587.59,427
+PROD00172,One Team Sports,Sports,Team Sports,Sony,506.67,660.53,134
+PROD00173,ARTIST LIGHTING,Home,Lighting,Dove,40385.52,77771.82,251
+PROD00174,SPECIFIC MAKEUP,Beauty,Makeup,Penguin,2434.57,6796.1,34
+PROD00175,By Team Sports,Sports,Team Sports,HarperCollins,2285.92,5323.61,498
+PROD00176,Subject Skincare,Beauty,Skincare,Apple,6808.66,10514.42,29
+PROD00177,Step Accessories,Fashion,Accessories,IKEA,1557.48,2661.74,214
+PROD00178,MY HAIRCARE,Beauty,Haircare,Adidas,4378.01,11840.22,263
+PROD00179,Can Footwear,Fashion,Footwear,Nike,4486.58,11703.98,423
+PROD00180,AMERICAN DINING,Furniture,Dining,Loreal,31598.91,45620.93,296
+PROD00181,DESPITE FURNITURE,Home,Furniture,Lenovo,14100.96,34804.16,210
+PROD00182,AGREEMENT FURNITURE,Home,Furniture,Nike,23645.46,60233.51,407
+PROD00183,Sure Water Sports,Sports,Water Sports,HarperCollins,4397.14,9351.26,387
+PROD00184,Which Living Room,Furniture,Living Room,Samsung,37210.32,99913.97,245
+PROD00185, Since Decor ,Home,Decor,Puma,40258.23,88426.11,390
+PROD00186, Structure Furniture ,Home,Furniture,HarperCollins,7099.67,10600.32,355
+PROD00187, Itself Footwear ,Fashion,Footwear,Samsung,3571,8729.44,57
+PROD00188,Once Smartphones,Electronics,Smartphones,Apple,19726.32,26614.54,337
+PROD00189,DRUG WATER SPORTS,Sports,Water Sports,Samsung,7295.68,9958.04,154
+PROD00190,Black Skincare,Beauty,Skincare,Philips,1881.59,4989.53,94
+PROD00191,LISTEN HAIRCARE,Beauty,Haircare,Nike,6813.13,18482.44,485
+PROD00192,Inside Team Sports,Sports,Team Sports,Penguin,5909.87,9826.54,291
+PROD00193,Fact Smartphones,Electronics,Smartphones,Lenovo,21274.86,33770.04,144
+PROD00194,SOURCE JEWELRY,Fashion,Jewelry,Loreal,1059.88,1718.09,258
+PROD00195,Yes Office,Furniture,Office,Puma,30961.61,45234.5,427
+PROD00196,Believe Lighting,Home,Lighting,Amazon Basics,6852.36,19028.45,63
+PROD00197,Middle Fiction,Books,Fiction,IKEA,1086.62,2320.69,20
+PROD00198,Color Headphones,Electronics,Headphones,Puma,50029.21,88452.16,499
+PROD00199,LAND OFFICE,Furniture,Office,Amazon Basics,14495.34,37442.17,96
+PROD00200,Name Living Room,Furniture,Living Room,Dove,17799.98,23481.36,345
+PROD00201,And Fiction,Books,Fiction,Dove,219.01,331.81,205
+PROD00202,Off Personal Care,Beauty,Personal Care,Nike,798.27,2205.47,173
+PROD00203,Add Jewelry,Fashion,Jewelry,Sony,6753.44,16125.87,142
+PROD00204,Nation Outdoor,Furniture,Outdoor,Penguin,29684.74,56411.49,243
+PROD00205,Bill Personal Care,Beauty,Personal Care,Lenovo,2447.46,6001.17,55
+PROD00206, Task Headphones ,Electronics,Headphones,Nike,7229.26,17398.64,425
+PROD00207,Short Tablets,Electronics,Tablets,Amazon Basics,50343.79,90137.22,155
+PROD00208,RELIGIOUS WATER SPORTS,Sports,Water Sports,Samsung,5390.32,11211.45,252
+PROD00209,HIT OFFICE,Furniture,Office,Dove,23409.66,48158.17,277
+PROD00210,Line Bedding,Home,Bedding,Apple,44600.6,116861.98,60
+PROD00211,Both Children,Books,Children,Puma,150.37,235.37,337
+PROD00212, Choose Dining ,Furniture,Dining,Amazon Basics,7782.99,18473.59,249
+PROD00213,Person Living Room,Furniture,Living Room,Lenovo,31471.09,67924.54,243
+PROD00214,Allow Outdoor,Sports,Outdoor,Puma,4851.05,9055.44,346
+PROD00215, Trouble Decor ,Home,Decor,Apple,7512.52,13895.27,414
+PROD00216,SERVICE PERSONAL CARE,Beauty,Personal Care,Dove,2927.68,4233.5,176
+PROD00217,Box Lighting,Home,Lighting,Sony,12088.75,21374.71,43
+PROD00218, Guess Skincare ,Beauty,Skincare,Nike,451.78,808.31,235
+PROD00219,Sea Fragrance,Beauty,Fragrance,Adidas,457.1,916.28,11
+PROD00220,Ask Lighting,Home,Lighting,Samsung,36758.04,53302.28,345
+PROD00221,Major Accessories,Fashion,Accessories,Dove,2914.45,6476.61,186
+PROD00222,Become Non-Fiction,Books,Non-Fiction,Penguin,205.45,529.14,109
+PROD00223,DEAL DECOR,Home,Decor,Philips,19287.18,31608.39,380
+PROD00224,MOVIE CAMERAS,Electronics,Cameras,IKEA,25502.37,54820.98,271
+PROD00225,AND CHILDREN,Books,Children,Penguin,207.33,525.71,258
+PROD00226,Issue Dining,Furniture,Dining,Sony,19815.51,33228.57,263
+PROD00227,LOCAL COMICS,Books,Comics,Apple,978.98,2030.73,95
+PROD00228,BLUE CYCLING,Sports,Cycling,HarperCollins,6015,12035.67,479
+PROD00229,Employee Personal Care,Beauty,Personal Care,Amazon Basics,7496.7,17916.53,30
+PROD00230, Arm Outdoor ,Sports,Outdoor,Nike,6047.54,14806.16,432
+PROD00231,Maintain Children,Books,Children,Samsung,987.5,2536.84,136
+PROD00232, Seem Dining ,Furniture,Dining,Philips,12153.58,20147.3,76
+PROD00233,DROP CLOTHING,Fashion,Clothing,HarperCollins,2691.16,5457.87,223
+PROD00234,GO FICTION,Books,Fiction,Adidas,291,491.09,411
+PROD00235,BASE BEDDING,Home,Bedding,HarperCollins,3815.99,9096.22,400
+PROD00236, Anyone Smartphones ,Electronics,Smartphones,Philips,27348.44,38161.26,489
+PROD00237,Tax Academic,Books,Academic,Amazon Basics,1420.43,3389.65,71
+PROD00238,Truth Clothing,Fashion,Clothing,Samsung,4319.07,10985.44,486
+PROD00239,FIELD OUTDOOR,Furniture,Outdoor,Samsung,12237.3,18153,413
+PROD00240,Herself Decor,Home,Decor,Penguin,34180.09,56530.69,216
+PROD00241,NICE FOOTWEAR,Fashion,Footwear,Sony,7768.41,15219.97,130
+PROD00242,FACT OUTDOOR,Furniture,Outdoor,Lenovo,18112.31,49321.02,162
+PROD00243, Million Cycling ,Sports,Cycling,Adidas,7071.64,19132.03,185
+PROD00244, First Academic ,Books,Academic,Philips,148.73,358.32,409
+PROD00245,DECISION LAPTOPS,Electronics,Laptops,Amazon Basics,28195.14,77190.55,185
+PROD00246, Suddenly Living Room ,Furniture,Living Room,Puma,18704.25,49840.91,201
+PROD00247,INSTITUTION DECOR,Home,Decor,HarperCollins,34536.72,60305.75,440
+PROD00248,Continue Watches,Fashion,Watches,Penguin,5262.11,13070.96,140
+PROD00249,Build Living Room,Furniture,Living Room,Puma,33688.5,90613.5,170
+PROD00250,Score Fragrance,Beauty,Fragrance,HarperCollins,1534.64,2595.77,33
+PROD00251,Debate Lighting,Home,Lighting,Loreal,16051.04,37604.62,390
+PROD00252,Ago Laptops,Electronics,Laptops,Nike,5230.69,8369.69,156
+PROD00253,ADULT BEDDING,Home,Bedding,Nike,12732.95,30181.5,393
+PROD00254,Other Bedroom,Furniture,Bedroom,Penguin,42394.98,83824.83,447
+PROD00255,LEARN MAKEUP,Beauty,Makeup,Dove,4866.26,8717.28,144
+PROD00256, Court Clothing ,Fashion,Clothing,Amazon Basics,7574.63,19894.86,114
+PROD00257,Happy Smartphones,Electronics,Smartphones,Dove,22153.04,31755.6,236
+PROD00258, Night Accessories ,Fashion,Accessories,Amazon Basics,5058.63,11131.97,76
+PROD00259,TRADE HEADPHONES,Electronics,Headphones,Philips,13801.29,32817.74,222
+PROD00260,News Office,Furniture,Office,Sony,32683.24,51829.61,441
+PROD00261,REQUIRE DINING,Furniture,Dining,Puma,18429.16,35880.89,105
+PROD00262, Hear Outdoor ,Sports,Outdoor,Dove,1758.1,2761.19,405
+PROD00263,LIKELY CLOTHING,Fashion,Clothing,Adidas,2113.24,4176.74,127
+PROD00264,Last Bedding,Home,Bedding,Apple,22161.91,57779.76,498
+PROD00265,Score Fragrance,Beauty,Fragrance,Loreal,3559.34,7815.58,37
+PROD00266,LAUGH CAMERAS,Electronics,Cameras,IKEA,74829.85,150138.51,181
+PROD00267,Pick Water Sports,Sports,Water Sports,Apple,2253.16,5023.39,154
+PROD00268,ENVIRONMENT ACADEMIC,Books,Academic,Lenovo,157.57,247.24,86
+PROD00269,Model Cycling,Sports,Cycling,Nike,990.29,2342.42,221
+PROD00270,ALL ACCESSORIES,Fashion,Accessories,Apple,7834.58,16051.61,498
+PROD00271,Democratic Dining,Furniture,Dining,Adidas,40820.09,69182.89,424
+PROD00272,Camera Dining,Furniture,Dining,Nike,15568.35,43464.46,391
+PROD00273,Option Jewelry,Fashion,Jewelry,Penguin,3687.92,5839.38,27
+PROD00274,ACCEPT FOOTWEAR,Fashion,Footwear,Adidas,1559.37,3119.83,59
+PROD00275,Goal Fiction,Books,Fiction,Lenovo,779.28,1589.33,433
+PROD00276,DECIDE MAKEUP,Beauty,Makeup,Samsung,1868.75,3225.79,427
+PROD00277,Remain Jewelry,Fashion,Jewelry,Dove,4809.72,10462.69,497
+PROD00278, Suggest Cameras ,Electronics,Cameras,Samsung,23461.81,48030.22,48
+PROD00279,TURN KITCHENWARE,Home,Kitchenware,Dove,7245.61,13479.28,475
+PROD00280,STANDARD HEADPHONES,Electronics,Headphones,Samsung,39517.49,93322.92,245
+PROD00281, Deep Academic ,Books,Academic,Apple,1018.64,2777.16,166
+PROD00282,POLICY PERSONAL CARE,Beauty,Personal Care,HarperCollins,674.85,1528.85,165
+PROD00283,Interesting Living Room,Furniture,Living Room,Philips,18399.81,34928.13,91
+PROD00284,CLOSE WATCHES,Fashion,Watches,HarperCollins,1903.32,3583.48,206
+PROD00285,TEST FURNITURE,Home,Furniture,Puma,36447.32,87613.3,471
+PROD00286,TAKE BEDDING,Home,Bedding,Dove,6132.79,11352.93,102
+PROD00287,Wide Children,Books,Children,Philips,940.48,1349.9,216
+PROD00288,Wrong Dining,Furniture,Dining,Amazon Basics,5996.74,12413.32,498
+PROD00289,Less Non-Fiction,Books,Non-Fiction,Puma,838.19,1903.39,42
+PROD00290,Win Lighting,Home,Lighting,Puma,14916.91,41413.51,350
+PROD00291, Environmental Furniture ,Home,Furniture,Apple,25692.76,68752.62,262
+PROD00292, This Cameras ,Electronics,Cameras,Dove,59023.25,148693.56,181
+PROD00293,LEAVE BEDDING,Home,Bedding,Lenovo,2699.55,6508.01,236
+PROD00294, Visit Footwear ,Fashion,Footwear,Amazon Basics,7051.02,12314.4,300
+PROD00295,Indeed Fragrance,Beauty,Fragrance,Penguin,2341.07,6438.13,446
+PROD00296,LEAVE BEDROOM,Furniture,Bedroom,Samsung,34122.26,75276.41,446
+PROD00297, Test Skincare ,Beauty,Skincare,Amazon Basics,1198.42,1866.66,244
+PROD00298,Church Children,Books,Children,Philips,1116.28,1958.18,416
+PROD00299,Bar Team Sports,Sports,Team Sports,Dove,3341.48,5860.91,64
+PROD00300,HEAD CLOTHING,Fashion,Clothing,HarperCollins,422.32,1163.82,439
+PROD_DUP_764,Those Water Sports,Sports,Water Sports,Nike,5030.03,10284.38,373
+PROD_DUP_248,FRONT OUTDOOR,Furniture,Outdoor,HarperCollins,6572.24,13444.93,409
+PROD_DUP_765,INSTITUTION DECOR,Home,Decor,HarperCollins,34536.72,60305.75,440

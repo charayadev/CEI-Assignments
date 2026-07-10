@@ -1,0 +1,701 @@
+customer_id,customer_name,email,phone,gender,city,state,country,registration_date,customer_type
+CUST00001, Allison Hill ,donaldgarcia@example.net,+1-219-560-0133,Other,Robinsonshire,Louisiana,Sudan,2021-01-21,REGULAR
+CUST00002,Caitlin Henderson,eric51@example.org,(615)759-4078x1618,Male,Lake Chad,Texas,Denmark,2023-06-19,REGULAR
+CUST00003, Dr. Sharon James ,xreid@example.org,(653)541-9283x276,Other,Meganton,Iowa,Swaziland,2021-04-10,REGULAR
+CUST00004,Jennifer Jones,jason76@example.net,724.523.8849x696,Male,New Trevor,Wisconsin,Australia,2021-12-07,REGULAR
+CUST00005,CHRISTOPHER BECKER,cruzcaitlin@example.com,648.401.8451x46270,Male,Port Colleenhaven,Rhode Island,Congo,2022-04-20,REGULAR
+CUST00006, CHRISTOPHER ASHLEY ,georgetracy@example.org,(443)903-9117x182,Female,West Allison,Rhode Island,Jamaica,2022-10-21,REGULAR
+CUST00007,nicole vaughn,raymond57@example.net,213.331.5098x393,Male,East Carloston,Michigan,Barbados,2025-05-17,REGULAR
+CUST00008, MICHAEL LEWIS ,jenniferkhan@example.net,337.263.1165x6670,Female,Chandlerville,Kansas,Congo,2022-08-14,REGULAR
+CUST00009,Brenda White,ewright@example.com,+1-910-980-1326,Other,Port Richard,Arkansas,Chad,2024-03-23,VIP
+CUST00010,James House,smitchell@example.net,+1-272-734-3098,Male,North Breannahaven,North Dakota,Cayman Islands,2021-06-26,REGULAR
+CUST00011,angela lopez,leonardjoe@example.org,001-739-690-9169,Male,Lake Jennifer,Kansas,Estonia,2024-05-14,REGULAR
+CUST00012,MATTHEW BRYANT,smithchristine@example.net,518-738-4251,Other,Ericside,Virginia,Gabon,2021-01-25,REGULAR
+CUST00013,Kristen Huynh,mcmillandennis@example.org,682-944-9353,Female,Rebeccaton,Colorado,North Macedonia,2024-08-09,REGULAR
+CUST00014,Amanda Cook,danagreen@example.net,486.880.1128x059,Other,North Kyle,Arizona,United Arab Emirates,2024-01-17,REGULAR
+CUST00015,david garcia,vdickson@example.org,622.460.2563,Male,South Monicafort,Iowa,Cook Islands,2024-12-01,REGULAR
+CUST00016,robert savage,andrewlee@example.com,614-258-6850x142,Female,New Ryanmouth,Nevada,New Caledonia,2025-05-08,REGULAR
+CUST00017,Steven Lee,fletcheraaronexample.net.invalid,+1-835-661-5951x48465,Other,East Robert,Missouri,Philippines,2022-06-25,PREMIUM
+CUST00018,Elizabeth Kelley,torresjason@example.net,+1-757-377-3872x148,Male,Lake Lance,Illinois,Cameroon,2021-03-17,REGULAR
+CUST00019,William Carr,gibsonolivia@example.net,567.463.2016,Male,Williamsbury,Delaware,Korea,2022-02-19,REGULAR
+CUST00020,mary travis,stephanie79@example.net,968.372.7743x48734,Female,Jimmymouth,Massachusetts,Uganda,2021-09-08,PREMIUM
+CUST00021,David Benson,calebrussell@example.net,,Female,Perryborough,Nebraska,Iceland,2021-03-02,REGULAR
+CUST00022,PAMELA JAMES,benderkenneth@example.com,(488)993-7346x70656,Male,New Amanda,Montana,Nauru,2021-03-26,PREMIUM
+CUST00023, Jeffrey Camacho ,brentgray@example.org,755.564.6417x080,Other, Port Susanton,Wisconsin,Antarctica (the territory South of 60 deg S),2023-02-08,PREMIUM
+CUST00024,ALEX HERNANDEZ,thomaswilson@example.org,645.829.9124x190,Female,Davidborough,California,Nauru,2023-01-25,VIP
+CUST00025,Raymond Jefferson,hoganashlee@example.org,(786)951-8506x716,Female,South Gregory,North Dakota,Pakistan,2023-04-20,VIP
+CUST00026,Tamara Hampton,ugraham@example.net,253-914-7379x965,Male,Hunterborough,Minnesota,South Georgia and the South Sandwich Islands,2023-03-14,REGULAR
+CUST00027,spencer haynes,angela83example.org.invalid,367.683.7770,Male,South Heather,Maryland,Panama,2024-02-21,REGULAR
+CUST00028,Joseph Coleman,michael74@example.com,631-335-1823x374,Other,West Jeremy,Idaho,Gabon,2021-02-13,REGULAR
+CUST00029,Beth Williams,tranheidi@example.org,+1-971-309-4777x5204,Male,South Travisshire,South Dakota,Poland,2021-06-16,PREMIUM
+CUST00030,Robert Avery,mcknightdavid@example.com,+1-299-338-6774x964,Female,Lake Jason,Texas,Belgium,2022-05-03,REGULAR
+CUST00031, Juan Moore ,mhayes@example.com,503-444-7134x9361,Male,Margaretland,Arkansas,Chad,2023-08-14,REGULAR
+CUST00032,samantha morse,smartinez@example.com,001-664-288-7719x065,Female,East Suzanneshire,Pennsylvania,Zambia,2021-03-06,REGULAR
+CUST00033,Miss Debra Williams PhD,cstone@example.com,(796)371-7565,Other, West Robert,New York,France,2024-05-29,REGULAR
+CUST00034,Krista Gibson,johnny16example.net.invalid,9879603859,Male,East Josephberg,Maine,Kazakhstan,2025-02-14,REGULAR
+CUST00035,William Lynch,jennifercollins@example.org,+1-661-631-7127,Female,Davenportfort,Kansas,Korea,2022-03-26,REGULAR
+CUST00036,thomas romero,michellehill@example.com,784-804-4997x27875,Other,Cantuborough,Vermont,Dominican Republic,2024-04-04,VIP
+CUST00037,Reginald Williams,zthornton@example.com,(227)402-8951x7187,Male,Pittsberg,California,Latvia,2023-04-04,REGULAR
+CUST00038,Michael Santos,melissa86@example.com,+1-978-409-1343x1611,Other,Rebeccaton,Massachusetts,South Africa,2021-06-24,VIP
+CUST00039, James Thomas ,yknight@example.org,(421)596-9379,Male,Littlemouth,Kentucky,Papua New Guinea,2021-01-30,REGULAR
+CUST00040,Julie Roberts,charleslandry@example.net,664-674-3671x3695,Male,Port Dominiqueview,Alabama,Mongolia,2021-06-02,REGULAR
+CUST00041,NATASHA WALL,kimberly39@example.com,239.742.1047,Female,North Renee,Massachusetts,San Marino,2024-07-14,REGULAR
+CUST00042,Carlos Ryan,alyssa42@example.com,245.617.1236x8516,Female,South Miguelview,Pennsylvania,Hong Kong,2024-02-29,REGULAR
+CUST00043,David Johnson,rose31example.net.invalid,446.812.0047x113,Other,Watsonside,Nebraska,Namibia,2022-04-26,VIP
+CUST00044,MARY BASS,rcrosby@example.org,001-853-677-3515x850,Male,North Stacy,New Jersey,Bermuda,2022-10-21,REGULAR
+CUST00045,linda smith,john29@example.org,283-693-3529,Other,East Amber,Idaho,Bouvet Island (Bouvetoya),2021-03-22,REGULAR
+CUST00046,Hunter Kramer,alfred40@example.org,001-568-211-7758x9178,Male,Stephentown,Arkansas,Lesotho,2024-06-01,REGULAR
+CUST00047,Brian Joseph,fjones@example.com,+1-621-924-9985x698,Male,Garciaville,Tennessee,Pakistan,2022-10-31,PREMIUM
+CUST00048,stephen gutierrez,uross@example.org,465-245-2711x11615,Male,Elizabethchester,Minnesota,Tunisia,2024-08-07,REGULAR
+CUST00049,Michelle Schmitt,michael98example.org.invalid,(573)815-8514,Other,New Sarahview,Alaska,Cocos (Keeling) Islands,2023-04-30,VIP
+CUST00050,ELLEN MORGAN,whitedouglas@example.net,(612)701-8366x7525,Other,North Ericton,Utah,Belgium,2023-04-26,VIP
+CUST00051,Jeff Lawson,wnelson@example.net,256-514-9784,Male,Joyceton,Alabama,Costa Rica,2023-07-26,REGULAR
+CUST00052,pamela duran,mark07@example.net,(922)368-3885x16060,Other,Barbarashire,Montana,Russian Federation,2024-07-21,REGULAR
+CUST00053,jared burch,lauriemontgomery@example.net,(716)513-6968x164,Male,Kimberlyland,North Carolina,North Macedonia,2021-12-21,VIP
+CUST00054,CHEYENNE PARSONS,jessica23@example.org,(943)929-2127,Male,Michellemouth,Georgia,Kazakhstan,2021-08-01,PREMIUM
+CUST00055,mark hogan,bellcharles@example.com,200.954.1199x867,Female,West Cassidy,North Carolina,Canada,2021-07-12,REGULAR
+CUST00056,Robert Monroe,wagnergerald@example.org,001-777-288-9255x466,Male,Cameronville,Oklahoma,Philippines,2024-04-16,PREMIUM
+CUST00057,Nathaniel Douglas,mathewaguilar@example.org,(346)829-1486x528,Male,Andrewport,Idaho,Zambia,2022-10-28,REGULAR
+CUST00058, RALPH LEE ,ericphillips@example.org,988.205.9296x22292,Other,Diazbury,New Hampshire,New Zealand,2023-06-05,REGULAR
+CUST00059,Rachel Young,kylestokes@example.com,859.477.4688,Female,Port Cassandra,Kentucky,Austria,2025-02-02,REGULAR
+CUST00060,Kristen Garcia,mitchellkathryn@example.com,782.561.3750x606,Other,Vangstad,Iowa,Antarctica (the territory South of 60 deg S),2023-09-18,PREMIUM
+CUST00061,Sara Santos,devinmitchell@example.com,001-827-379-0104x328,Male,Johnville,Arkansas,Dominican Republic,2024-07-28,REGULAR
+CUST00062, Lisa Brown ,bcarlson@example.net,793.324.6095x39621,Other,South Morganton,South Dakota,Iceland,2024-03-05,VIP
+CUST00063,Alan Kramer,john19@example.net,001-252-605-8527x72217,Female,North Kylie,Arizona,Germany,2023-08-22,REGULAR
+CUST00064,Virginia Daniels,benjamin34@example.com,001-705-641-5667x65277,Other,Lake Rogerchester,Rhode Island,Swaziland,2022-07-15,REGULAR
+CUST00065,Erica Miller,kirk96@example.org,001-775-470-5964x016,Female,East Melindamouth,Arizona,Brunei Darussalam,2021-07-28,REGULAR
+CUST00066,Matthew Cox,jacobserika@example.com,(271)492-8565x431,Male,Holmesside,Delaware,Estonia,2023-03-20,REGULAR
+CUST00067,cindy carr,igonzalez@example.org,427.715.5188x442,Other,North Tracie,Florida,Dominica,2025-03-15,REGULAR
+CUST00068,Julian Wood,cherylmiller@example.com,(778)466-9125x1778,Male,Port Tammy,Nevada,Macao,2021-06-22,REGULAR
+CUST00069,Kelly Torres,marcusfletcher@example.com,441.443.8424x98182,Male,Meganshire,Arizona,Sweden,2021-03-30,REGULAR
+CUST00070, TRAVIS WISE ,debra96@example.net,+1-407-984-4736x4710,Male,Washingtonborough,Michigan,New Caledonia,2022-03-23,REGULAR
+CUST00071,Nathan Gross,theresa25@example.net,+1-415-337-1473,Female,West Soniachester,Kansas,Tonga,2022-05-12,REGULAR
+CUST00072, Taylor Griffith ,kathrynjimenez@example.net,774.270.1687x339,Male,West Troyfort,Maine,Mauritania,2021-01-26,PREMIUM
+CUST00073,jessica khan,kathryn50@example.com,9986358416,Male,East Theresafurt,Mississippi,South Africa,2023-11-20,REGULAR
+CUST00074,Holly Thomas,cporter@example.org,(757)787-2982,Female,South Vicki,West Virginia,Tajikistan,2023-07-19,REGULAR
+CUST00075,Katie Hicks,terickson@example.com,9556169409,Male,Lake Brett,New Mexico,Chile,2025-06-17,PREMIUM
+CUST00076,Lisa Randall,lorraineallen@example.net,001-913-207-5626x368,Other,New Jared,Massachusetts,Panama,2025-01-26,REGULAR
+CUST00077,EMILY THOMPSON,amy49@example.com,934.784.3443,Other,Baileyview,Maine,British Virgin Islands,2024-03-25,REGULAR
+CUST00078,JENNIFER REED,kellyroberts@example.net,657-447-3384,Female,New Joycebury,Kansas,Australia,2022-12-03,REGULAR
+CUST00079,Amy Gutierrez,xgarcia@example.org,6822677345,Other,Lake Audreyside,West Virginia,Saint Kitts and Nevis,2021-04-26,VIP
+CUST00080,carrie khan,sarahjohnson@example.com,924.400.4991x5478,Female,Nelsonville,Michigan,Central African Republic,2024-11-26,PREMIUM
+CUST00081,Michelle Smith,krystal93@example.org,+1-566-285-1612x275,Other,Patrickmouth,Wisconsin,Ethiopia,2023-10-22,PREMIUM
+CUST00082,Nathan Smith,heather01@example.com,426-984-1459x3327,Female,Robertside,New Mexico,Saudi Arabia,2022-11-10,REGULAR
+CUST00083,Melanie Larson,foxallison@example.com,491-408-8398,Male,Melissamouth,Delaware,Pitcairn Islands,2022-10-01,VIP
+CUST00084,Katherine Nolan,dstokes@example.org,367.290.8740x64039,Male,Cooperland,Ohio,Bahamas,2021-08-03,REGULAR
+CUST00085, MRS. DONNA WHITE ,katiegood@example.net,(456)576-6182x51286,Female,Port Andrewport,New Jersey,Peru,2024-08-10,REGULAR
+CUST00086,Samantha Wright,eric31@example.org,+1-269-803-3119x07903,Male,Youngborough,Wisconsin,Tonga,2021-06-25,REGULAR
+CUST00087, Wyatt Young ,barbara53@example.com,(483)864-4089,Male,Williamsstad,Tennessee,Paraguay,2024-03-30,PREMIUM
+CUST00088,Emma Butler,kevinwhite@example.net,833.542.7086x6882,Male,Jamesland,New Hampshire,Tanzania,2024-02-27,REGULAR
+CUST00089,NATHANIEL LEE,nicholas99@example.org,239-583-7354,Female,Lake David,Wisconsin,Lesotho,2023-01-24,PREMIUM
+CUST00090,michele sanders,andrearowe@example.com,585.744.5877x175,Female,Robertshire,Iowa,Saint Vincent and the Grenadines,2022-03-30,REGULAR
+CUST00091,JUAN SILVA,mphillips@example.com,969.937.8547,Other,Lake Laura,Hawaii,Burundi,2025-02-26,REGULAR
+CUST00092,Steve Mooney,warrenmary@example.org,+1-900-962-3120x38750,Female,North Amandachester,Alabama,Andorra,2023-05-04,PREMIUM
+CUST00093,Donna Shaw,ldrake@example.org,682-833-9845,Female,West Susanmouth,Oregon,Ecuador,2022-12-03,REGULAR
+CUST00094, Ronald Miller ,davisnicholas@example.net,,Female,Browntown,Vermont,Chile,2021-09-14,PREMIUM
+CUST00095,mr. richard knight phd,jacobsonsamantha@example.org,297.440.1489,Female,Alexisborough,Pennsylvania,Cambodia,2024-05-22,REGULAR
+CUST00096,Elizabeth Elliott,irhodes@example.com,(821)785-0163x1599,Female,Lake Joshuamouth,New York,Denmark,2024-01-11,REGULAR
+CUST00097,Jaime Lopez,nmiller@example.com,711.342.6265,Male,North Sherrymouth,Mississippi,Senegal,2023-04-19,REGULAR
+CUST00098,Brandon Jordan,fgarcia@example.com,+1-819-395-6046,Female,New Adriana,Utah,Hong Kong,2022-06-11,REGULAR
+CUST00099,Eric Snyder,jacksonjoshua@example.com,215.843.7993x7124,Female,Meaganfurt,Michigan,Kazakhstan,2023-11-06,REGULAR
+CUST00100,Rodney Curtis,kevinmorrison@example.net,575.726.5479,Male,Ramirezfurt,Mississippi,Brazil,2022-09-13,REGULAR
+CUST00101,Kimberly Maldonado,bentonsteven@example.net,674.416.7243,Other,Mccormickland,New Hampshire,Netherlands Antilles,2025-01-28,PREMIUM
+CUST00102, Kimberly Mclean ,ystephens@example.com,001-789-811-3529x096,Male,North Coreybury,North Carolina,San Marino,2025-05-31,REGULAR
+CUST00103,Melissa Walker,peter98@example.org,(907)514-6112x545,Other,Baileyville,New Hampshire,Saint Helena,2024-11-06,REGULAR
+CUST00104,ERIC PATRICK,johnsonmatthew@example.org,+1-423-882-8258x67362,Female,Johnsonborough,New Hampshire,Nauru,2024-08-27,REGULAR
+CUST00105,Michael Harris,raylauren@example.net,(755)837-1478,Female,Matthewsstad,Minnesota,Tanzania,2024-11-23,REGULAR
+CUST00106,Robin Mccarthy,samantha91@example.net,(851)834-1252,Male,New Patrick,Idaho,Libyan Arab Jamahiriya,2022-06-23,REGULAR
+CUST00107,KATHERINE TAYLOR,megan90@example.com,9728368876,Male,Burnsland,Oregon,Antarctica (the territory South of 60 deg S),2022-11-17,REGULAR
+CUST00108,Donald Medina,kimberlycunningham@example.com,+1-281-991-4858,Male,South Curtis,Tennessee,Sao Tome and Principe,2023-02-09,REGULAR
+CUST00109,Zachary Cole,michelle17@example.org,001-733-695-9629x23309,Female,West Tiffany,Maine,French Guiana,2023-04-11,REGULAR
+CUST00110,KAYLA MCCULLOUGH,taylorkaren@example.com,9424232536,Other, Courtneyfurt,New Hampshire,Belarus,2021-10-17,VIP
+CUST00111,PAUL NEAL,shawn75@example.net,5179518636,Other,Marcusport,Michigan,Mexico,2022-02-10,REGULAR
+CUST00112,Karina Cooper,williamsconnie@example.com,6124770632,Female,Clarencestad,Kentucky,Belize,2024-03-01,REGULAR
+CUST00113,Mariah Williams,jessica36@example.net,910-237-1293,Male,Lake Matthewville,Nevada,Puerto Rico,2022-02-15,REGULAR
+CUST00114,DARRYL DAVIS,garciamichael@example.com,(462)921-8909,Female,Jenniferberg,Nebraska,Nicaragua,2024-10-06,REGULAR
+CUST00115,Angelica Garcia,lawrencepatrick@example.com,523-841-3899x94043,Other,Debbiebury,New York,Hungary,2021-12-17,PREMIUM
+CUST00116,MARK JONES,hatfieldsarah@example.org,(596)258-2710x9104,Male,Port Raymondport,South Dakota,Rwanda,2025-04-06,REGULAR
+CUST00117,Jessica Morales,joshuacollins@example.net,528.256.9146,Male,North Sandy,Delaware,Korea,2021-06-20,REGULAR
+CUST00118,Patrick Yang,smithderrick@example.org,(675)388-4252,Female,West Lindsayview,North Dakota,Bahrain,2023-03-28,REGULAR
+CUST00119,Laura Jones,ddixon@example.com,001-225-224-1913,Female,East Brandonstad,Missouri,Uruguay,2022-04-12,REGULAR
+CUST00120,Tyler Johnson,pwalker@example.com,001-854-319-5180x2380,Male,Clineport,Massachusetts,Benin,2024-11-20,REGULAR
+CUST00121,Curtis Elliott,jodi37@example.com,001-573-783-2060,Other,West Aaronfurt,West Virginia,Saint Lucia,2023-08-14,PREMIUM
+CUST00122,Joseph Allen,jwoodward@example.net,410-838-6571x918,Female,New Ashleychester,Texas,Bulgaria,2023-01-06,VIP
+CUST00123,samuel howe,vhaynes@example.com,774-831-3291x21277,Female,New Michaelborough,New Hampshire,Gambia,2024-12-10,REGULAR
+CUST00124,BRYAN MOORE,margaret90@example.org,521-335-6804x42067,Other,Garciaberg,Delaware,American Samoa,2021-07-11,VIP
+CUST00125,Vickie Anderson,owatson@example.net,499-341-0137,Female,Davidmouth,Arkansas,Chile,2024-09-07,REGULAR
+CUST00126,Jennifer Johnson,nthompson@example.org,,Other,Joshuaberg,Arizona,Nicaragua,2023-02-03,REGULAR
+CUST00127,kathleen andrade,rbrown@example.com,(963)983-8065,Male,Robertahaven,Massachusetts,Iceland,2023-04-21,REGULAR
+CUST00128,Francis Robinson,brian78@example.com,001-493-421-3348x03965,Male,New Louis,West Virginia,Qatar,2024-01-20,REGULAR
+CUST00129,Alyssa Haynes,annalopez@example.com,+1-542-270-1039,Male,Smithborough,Florida,Guam,2022-07-06,REGULAR
+CUST00130,sarah morris,hernandezjanet@example.org,001-818-951-5691x54522,Male,Grantside,Vermont,Tuvalu,2024-01-14,REGULAR
+CUST00131,Kevin Thompson,jessica42@example.org,001-909-469-0295x9391,Female,Juliebury,Minnesota,Ghana,2022-06-06,REGULAR
+CUST00132,Tracey Underwood,sean43@example.org,001-915-841-0067x626,Male,Amyville,New Mexico,Solomon Islands,2022-12-02,PREMIUM
+CUST00133,benjamin singleton,andrew41@example.org,826-421-8159x97062,Male,North Markborough,Nebraska,Qatar,2023-04-05,REGULAR
+CUST00134,elizabeth davis,farmstrong@example.org,3502614973,Other,East Danielle,Colorado,Lebanon,2021-12-25,REGULAR
+CUST00135,james burns,christopher86@example.org,(265)427-0477x434,Other, North Elizabethside,Nebraska,Saudi Arabia,2022-12-08,REGULAR
+CUST00136,sara cardenas,rsheppard@example.com,001-437-341-6089,Female,Thompsonburgh,Indiana,Sri Lanka,2022-08-22,REGULAR
+CUST00137,Jay Mcneil,oharris@example.org,+1-945-211-6868x548,Male,Rodriguezberg,Georgia,Montenegro,2021-11-08,REGULAR
+CUST00138,Kristine Garcia,mikayla56@example.com,(279)897-0246x2996,Male,Hannahton,West Virginia,Lebanon,2023-04-15,REGULAR
+CUST00139,Alicia Roth,larry71@example.org,(947)554-6913,Male,Figueroahaven,Mississippi,Swaziland,2021-06-24,REGULAR
+CUST00140,Caitlin Collins,htaylor@example.net,7235303070,Male,Michealmouth,North Carolina,Indonesia,2022-01-20,PREMIUM
+CUST00141,Dana Burns,ethompson@example.net,+1-255-424-1406,Other,Port Jeffrey,Iowa,Philippines,2022-10-05,PREMIUM
+CUST00142,Jason Smith,wellsdavid@example.org,+1-503-949-4466x574,Other,Ericafurt,Pennsylvania,Bosnia and Herzegovina,2021-01-23,VIP
+CUST00143,Mary Bridges,anna99@example.com,517-215-4544x4328,Other,Guerreroberg,Washington,Anguilla,2025-03-26,PREMIUM
+CUST00144,DEANNA BARNES MD,aguilarwanda@example.org,638-475-8428x24172,Male,Destinybury,Minnesota,Czech Republic,2023-08-13,REGULAR
+CUST00145,STEPHEN WATSON,steven17@example.org,+1-299-491-7381x6846,Male,East Matthew,Oregon,Uganda,2024-11-22,REGULAR
+CUST00146,Scott White,freemancrystal@example.org,800-874-3292x71296,Other,Sanfordfurt,Alabama,Argentina,2022-09-12,REGULAR
+CUST00147,Tiffany Mcclain,andrewsmith@example.net,,Female,East Heather,Minnesota,Georgia,2022-02-05,VIP
+CUST00148,Jonathan Torres,colonkenneth@example.com,889.285.6257x532,Other,East Jessica,Florida,Croatia,2021-03-10,REGULAR
+CUST00149,Caroline Richardson,brooksdanielle@example.net,+1-609-901-0016x761,Female,East Heather,South Dakota,Algeria,2023-07-25,PREMIUM
+CUST00150,BRIAN MEYER,robertroach@example.net,001-791-841-1739x3483,Male,Ethanside,New York,United States Minor Outlying Islands,2022-10-08,VIP
+CUST00151,Karen Young,powersrebecca@example.net,+1-372-418-1143x74470,Other,Port Kellymouth,Nevada,Saint Vincent and the Grenadines,2021-12-27,VIP
+CUST00152,Peter Williams,elizabethjackson@example.com,894.915.5216x674,Male,Banksburgh,Delaware,Bulgaria,2021-07-02,REGULAR
+CUST00153,dr. ashley pruitt,rpham@example.com,(396)859-0277,Other,Williamsview,Tennessee,Germany,2021-02-08,REGULAR
+CUST00154,MEGAN SAUNDERS,tiffanysantiago@example.com,489.916.3756x28900,Male,Boothland,Wisconsin,Liechtenstein,2023-09-24,REGULAR
+CUST00155, Wayne Williams ,andreagray@example.org,377-997-1775,Male,North Richardton,Oklahoma,Mexico,2021-01-01,REGULAR
+CUST00156,Rebecca Richmond,pamela83@example.net,+1-375-350-3758x99757,Female,North Matthew,South Dakota,South Georgia and the South Sandwich Islands,2023-06-27,PREMIUM
+CUST00157,jacqueline rodriguez,travisunderwood@example.net,001-361-849-3316x3735,Female,Lake Maryshire,Delaware,Sierra Leone,2024-10-31,PREMIUM
+CUST00158, Kevin Gordon ,vsmith@example.org,+1-369-878-2922,Other,Williamfurt,Nebraska,New Caledonia,2023-02-11,PREMIUM
+CUST00159,Victor Waller,iballard@example.com,+1-484-485-8333x945,Female,Jenniferstad,Oklahoma,Lesotho,2024-07-21,REGULAR
+CUST00160,Stephanie Ferguson,hstokes@example.org,6624003424,Other,Lake Kristenborough,Wisconsin,Mauritius,2021-04-11,REGULAR
+CUST00161,Jesse Jensen,juliahoffman@example.org,540.766.6580x04397,Other,Port Jenny,Illinois,French Polynesia,2024-10-26,PREMIUM
+CUST00162,Michael Lopez,jillwilson@example.org,(748)242-2940x57202,Female,Tracyshire,Oklahoma,Guinea-Bissau,2021-08-15,VIP
+CUST00163,EMILY ROBINSON,abigailhartman@example.org,(988)261-5335x55439,Female,Lake Michaelbury,Tennessee,Nicaragua,2023-01-28,REGULAR
+CUST00164,melanie flores,cruzamber@example.com,5857887704,Other,North Garyside,Ohio,Albania,2021-07-23,VIP
+CUST00165,Mark Lewis,nhouston@example.net,001-661-320-7501x102,Male,West Rickey,New Hampshire,Norfolk Island,2024-06-10,PREMIUM
+CUST00166,Alan Nunez,maychristine@example.net,001-301-658-1449,Male,Jamestown,New Mexico,Cayman Islands,2022-11-15,REGULAR
+CUST00167,James Salinas,susan24@example.net,001-350-688-2100x9968,Other,Lake Judith,Washington,Guatemala,2022-10-20,VIP
+CUST00168, Matthew Hunt ,jackjensen@example.com,612.390.8781,Female,Coreyshire,New York,Zambia,2023-10-25,REGULAR
+CUST00169,michael young,christine35@example.com,259.749.2995x562,Male,Port Jeffrey,West Virginia,Norway,2024-09-16,PREMIUM
+CUST00170,ian frazier,natalie77@example.com,001-347-281-2914x28341,Male,Port Bonniefurt,Wyoming,Nauru,2022-10-24,REGULAR
+CUST00171, kristen stephens ,jvaldez@example.com,(539)442-7881x6580,Male,South Erik,Oregon,Yemen,2022-03-31,REGULAR
+CUST00172,Karen Howard,kathleenhall@example.com,(330)638-5677x005,Female,Bethshire,Idaho,Honduras,2024-03-22,PREMIUM
+CUST00173,MATTHEW HOUSTON,nicholas38@example.com,(657)579-0827x231,Other,East Eric,Rhode Island,Saint Barthelemy,2022-01-03,REGULAR
+CUST00174,JENNIFER RIVERA,olsontimothy@example.org,001-426-403-0299,Male,New Dylanburgh,Kentucky,Uzbekistan,2022-07-14,VIP
+CUST00175,jennifer costa,johnsjessica@example.com,437-497-7236,Male,Garymouth,New Jersey,Nepal,2021-08-02,REGULAR
+CUST00176,James Rodriguez,alexandrablankenship@example.net,(429)212-7990x88117,Female,Boydstad,Arizona,Qatar,2024-08-25,REGULAR
+CUST00177, robert clarke ,zbell@example.net,001-591-262-4731x49864,Other,New Alexandrahaven,Alabama,Honduras,2022-10-01,PREMIUM
+CUST00178,emily cox,ronaldrichards@example.com,+1-969-459-4636,Other,Angiefort,Kentucky,Gambia,2023-12-06,REGULAR
+CUST00179,Jennifer Taylor,adkinssean@example.net,(413)886-5890,Female, Port Christopherberg,New Mexico,Vanuatu,2024-09-14,REGULAR
+CUST00180,DENNIS WOOD,ramseysarah@example.com,+1-584-290-2770x384,Female,New Gavin,Arizona,Guyana,2023-01-14,REGULAR
+CUST00181,vanessa miller,kimberly56@example.com,001-738-701-1848,Male,Jeremyborough,New Jersey,Venezuela,2024-06-09,REGULAR
+CUST00182,debbie russell,hansenwesley@example.com,984-589-4769,Other,Susanmouth,Utah,Kuwait,2021-03-26,REGULAR
+CUST00183,Mr. James Kramer,ericahall@example.com,(958)780-4341x65182,Female,Jefferyshire,Louisiana,Cocos (Keeling) Islands,2022-08-14,PREMIUM
+CUST00184,Mr. Nicolas Salas II,maryhuff@example.com,(911)717-9080,Other, Travisshire,Louisiana,Liechtenstein,2022-07-23,REGULAR
+CUST00185,DR. DIANA WALKER,brianlloyd@example.com,+1-908-756-2718,Male,North Emilyfurt,Pennsylvania,Bolivia,2023-10-09,PREMIUM
+CUST00186,Scott Lopez,joel79@example.com,(427)563-6556x472,Other, Lake Josephbury,Oklahoma,Jersey,2024-03-29,REGULAR
+CUST00187, Robert Rodgers ,lshaffer@example.com,428.285.7448x9061,Female,Port Jonathan,South Dakota,Bhutan,2024-10-29,REGULAR
+CUST00188,debbie ward,maurice61@example.com,+1-893-699-8245x58771,Male,Welchberg,Hawaii,Northern Mariana Islands,2023-11-15,REGULAR
+CUST00189,Logan Sullivan,millermatthew@example.com,244-496-4759x87622,Other,Lake Johnathan,West Virginia,Reunion,2021-09-06,REGULAR
+CUST00190,JAMES DAVIS,bkelley@example.com,411.449.2164x33472,Other,North Elizabethmouth,New Mexico,Lao People's Democratic Republic,2023-04-27,REGULAR
+CUST00191,Brandy Fry,brittanybryant@example.net,+1-796-888-4578x3174,Male,Erictown,Alabama,Mali,2022-02-28,REGULAR
+CUST00192,John Smith,earroyo@example.com,8648930853,Other,Wrightfurt,Missouri,Cyprus,2023-03-29,REGULAR
+CUST00193,Mario Black,justin84@example.com,612.924.1797,Other, West Andrew,Arkansas,Martinique,2021-03-10,REGULAR
+CUST00194, brian adams ,oacosta@example.org,(907)235-6475,Male,Christopherberg,Arkansas,Ethiopia,2024-05-04,PREMIUM
+CUST00195,JOHN LEE,lisa01@example.net,567.930.3718,Other,Maldonadoport,Massachusetts,Cayman Islands,2021-05-12,PREMIUM
+CUST00196,Krista Martinez,mlittle@example.com,3318365024,Other,North Tanya,Pennsylvania,Slovenia,2025-01-16,REGULAR
+CUST00197,brittney townsend,ericdavis@example.net,500-252-8127x35857,Other,Howardberg,Kentucky,United Arab Emirates,2021-05-03,REGULAR
+CUST00198,MR. EDWARD TERRY,ashleystephens@example.com,001-774-998-2182x7448,Female,Port Danafurt,Washington,Colombia,2021-02-28,PREMIUM
+CUST00199, Helen Oliver ,jennifer86@example.org,478.429.4565x11810,Other,East Danielborough,Connecticut,Antigua and Barbuda,2024-04-22,REGULAR
+CUST00200,kelly miles,brandon39@example.net,803-771-7058,Male,Port Christinahaven,Arizona,Saint Martin,2021-08-07,REGULAR
+CUST00201,angela lewis,garciajerry@example.com,338.739.2886,Other,Parkchester,Connecticut,Chad,2022-07-15,PREMIUM
+CUST00202,KATHY SANDOVAL,umahoney@example.net,956-965-9398x36845,Other,Smithton,Maine,Nepal,2021-02-20,REGULAR
+CUST00203,Wendy Turner,tracey35@example.org,001-648-788-9921x07522,Other,East Jonathan,Maryland,Bermuda,2024-05-27,REGULAR
+CUST00204,Claudia Jones,laura27@example.net,001-891-894-0961x055,Other, Port Kayleetown,South Dakota,Slovakia (Slovak Republic),2024-04-03,REGULAR
+CUST00205,Joseph Flores,markwolfe@example.org,6678998136,Other,East Matthew,New Mexico,Montserrat,2021-06-03,REGULAR
+CUST00206,Deborah Ross,iayala@example.org,683.876.9389x8331,Female,Gailshire,Colorado,Bouvet Island (Bouvetoya),2024-07-08,REGULAR
+CUST00207,Gregory Flores,carrillogary@example.com,+1-279-527-0335x211,Female,Port Marissa,Maine,American Samoa,2023-12-03,REGULAR
+CUST00208,Ashley Cole,riverajody@example.org,888.248.7920,Other,Georgeport,Illinois,Somalia,2023-04-23,REGULAR
+CUST00209,MATTHEW SMITH,qguerrero@example.net,(310)446-3681x579,Female,New Tammy,Oklahoma,Vanuatu,2021-03-08,VIP
+CUST00210, thomas torres ,klong@example.org,(655)543-8404x608,Other,West Penny,Texas,Burundi,2021-09-30,REGULAR
+CUST00211,KELLY GREGORY,robertberry@example.com,495-878-2329x8324,Other,Lake Sarah,Hawaii,Ghana,2021-07-30,REGULAR
+CUST00212,Tiffany Wilson,mary20@example.com,(564)574-2312x20994,Female,Lake Anthony,Colorado,Portugal,2025-01-20,REGULAR
+CUST00213,Ryan Harrison,jack67@example.com,(523)530-6046,Female,North Gregory,New Hampshire,Tonga,2025-03-03,REGULAR
+CUST00214,Sharon Clay,csullivan@example.net,001-965-269-9988x0817,Other,New Amanda,West Virginia,Armenia,2024-04-18,REGULAR
+CUST00215,Lydia Williams,scott44@example.com,(364)390-8277,Female,Port Brenda,Vermont,Mayotte,2022-02-25,PREMIUM
+CUST00216,Frank Johnson,tgarza@example.org,814.452.1117x518,Other,Pierceton,Wyoming,Chile,2023-11-08,REGULAR
+CUST00217,Mary Hernandez,haroldjosephexample.com.invalid,947-942-1230x9407,Male,New Nicolebury,Indiana,Namibia,2025-01-17,REGULAR
+CUST00218,Jeremy Burke,sanchezamy@example.net,+1-683-702-2050x2099,Female,North Danielburgh,Hawaii,Peru,2023-06-03,PREMIUM
+CUST00219,melissa larson,tammycurry@example.com,3146556168,Female,Taylorview,Michigan,Malta,2024-07-09,PREMIUM
+CUST00220,Melissa Salazar,duncantiffany@example.net,779-446-9548,Other,Stonefort,New York,Sri Lanka,2022-07-13,PREMIUM
+CUST00221,Crystal Roberts,aaronjohnson@example.net,539-266-0558,Other,Lake Juan,California,Gambia,2023-07-22,PREMIUM
+CUST00222,Erica Smith,matthew99@example.org,(435)957-7027,Male,Stevenchester,West Virginia,Azerbaijan,2025-06-07,REGULAR
+CUST00223,nathaniel stewart,clarkgina@example.com,824-405-6829,Other,Port Kimberlyport,Virginia,Togo,2023-09-05,VIP
+CUST00224,Denise Miller,nathangallegos@example.com,984.221.5031,Male,Steinberg,Illinois,Guam,2025-02-11,PREMIUM
+CUST00225,Kelly Rowe,kaylagarcia@example.net,+1-923-207-6810x40915,Female,New Katieport,Alaska,Morocco,2023-08-28,REGULAR
+CUST00226,christine gonzalez,joshua57@example.net,342-524-1098,Female,Andreaview,Georgia,Western Sahara,2023-05-31,REGULAR
+CUST00227,Carolyn Collins,amber02@example.org,701.660.1662x9979,Female,Lisaside,Colorado,Uzbekistan,2024-12-17,PREMIUM
+CUST00228,Anna Lang,tdavis@example.net,+1-977-933-2945x6255,Female,North Thomasstad,New Mexico,Kyrgyz Republic,2022-06-15,VIP
+CUST00229,GREGORY ANDREWS,sullivanjennifer@example.org,981-848-7696x39382,Male,West Jaredshire,Nevada,Slovenia,2024-09-14,REGULAR
+CUST00230,gloria benson,elainemiller@example.net,001-971-499-7581,Female,Stephanieland,Rhode Island,Botswana,2024-03-23,REGULAR
+CUST00231, Matthew Brown ,lisaclay@example.net,9225784699,Other,Lake Natalie,Maryland,Montenegro,2023-08-05,REGULAR
+CUST00232,Taylor Robbins,veronica90@example.net,562.840.5800x85140,Male, Garrettfurt,Montana,Hong Kong,2024-09-14,REGULAR
+CUST00233,Mary Wells,angelabridges@example.com,(824)922-0102x76212,Other,Hansonmouth,North Carolina,Jamaica,2024-10-30,REGULAR
+CUST00234,Darius Coleman,lanemelanie@example.org,001-384-968-9500x975,Male,East Jessicahaven,Wisconsin,Slovakia (Slovak Republic),2023-05-19,REGULAR
+CUST00235,BLAKE WU,sanchezcrystal@example.net,+1-718-894-9058x07787,Male,Susanport,Maine,Chad,2021-04-20,VIP
+CUST00236,Linda Torres,bryan79@example.org,001-304-690-4712,Female,Davidview,Louisiana,Togo,2023-03-10,REGULAR
+CUST00237,BRIAN THOMPSON,donnawood@example.org,837-828-0512x927,Male,Lake Scott,South Dakota,Chad,2022-10-18,PREMIUM
+CUST00238,Sarah Brown,karla10@example.org,867.247.8366x742,Male,Saramouth,Missouri,Philippines,2023-09-08,REGULAR
+CUST00239,melanie williams,stephanie69@example.net,754-441-4967x393,Female,Amytown,California,American Samoa,2024-07-01,REGULAR
+CUST00240, Brian Griffin ,jessicaking@example.org,3914093911,Female,Douglasshire,Idaho,Ukraine,2021-12-11,REGULAR
+CUST00241,Dawn Owens,fowlersandra@example.com,001-465-942-1406x65044,Female,South Tiffanyborough,South Carolina,India,2022-07-09,VIP
+CUST00242,Ashley Fernandez,probinson@example.org,241.201.1947x072,Female,Adamsmouth,Montana,Morocco,2021-01-12,PREMIUM
+CUST00243,teresa henry,upowell@example.org,+1-730-667-1985,Female,Brownland,Mississippi,Martinique,2023-11-23,PREMIUM
+CUST00244,Joe Miranda,gregorywilliams@example.com,+1-534-961-5717x32030,Female,Brownside,Tennessee,Gambia,2025-04-02,REGULAR
+CUST00245,Sandra Cole,johnsonbrian@example.net,5613387829,Female,Lake Donaldtown,New Mexico,United States of America,2021-05-23,REGULAR
+CUST00246,Matthew Smith,conwaylori@example.org,592.891.1179x931,Other,Lisafurt,Massachusetts,British Indian Ocean Territory (Chagos Archipelago),2022-03-03,REGULAR
+CUST00247,Vincent Lewis,watkinsmatthew@example.org,326-825-8273x902,Female,North Nichole,Colorado,Albania,2021-01-23,REGULAR
+CUST00248,Brandon Pearson,robert72@example.org,(448)976-3290,Male,Lake Margaretport,Minnesota,Italy,2021-01-15,REGULAR
+CUST00249,Cheryl Downs,montgomerymichelle@example.net,237.734.0312x77220,Male,Jasonview,Michigan,Nicaragua,2024-11-08,REGULAR
+CUST00250,Patrick Buckley,ericjohnson@example.net,713-579-9563,Other,West Jeremybury,West Virginia,Isle of Man,2022-09-14,REGULAR
+CUST00251,daniel ruiz,bbrown@example.org,797.626.5273,Female,West David,Vermont,Montenegro,2021-07-05,REGULAR
+CUST00252,BRIAN OWENS,vjackson@example.org,992-992-9831x6873,Male,Alexischester,West Virginia,Tunisia,2023-02-06,REGULAR
+CUST00253,jeffrey walker,robinvillanueva@example.com,3079806867,Other,Allenside,Wisconsin,American Samoa,2024-06-17,REGULAR
+CUST00254,Brandi Phillips,smithelizabeth@example.org,001-279-390-7726x257,Male,Barrymouth,North Dakota,Antigua and Barbuda,2023-07-11,REGULAR
+CUST00255,DERRICK SHAH,kristinmiller@example.com,001-408-350-1657x9055,Female,East Tina,Kansas,Mauritius,2021-12-19,REGULAR
+CUST00256,Nancy Goodwin,karenhodges@example.com,(348)964-0155x778,Male,Shannonstad,Utah,Yemen,2021-07-23,PREMIUM
+CUST00257,Stephen Miller,shurst@example.org,224-612-7238,Male,Montesside,Florida,Lebanon,2023-12-14,VIP
+CUST00258,Oscar Smith,bryanwiggins@example.org,456.695.5798x87749,Other,Port Jordan,New Mexico,Holy See (Vatican City State),2023-06-15,REGULAR
+CUST00259,Amber Gomez,nhuber@example.org,001-484-922-2231x059,Female,Mikeborough,Oklahoma,Russian Federation,2021-04-18,REGULAR
+CUST00260,Vanessa Hernandez,kfernandez@example.net,610-967-2752x0885,Other,Tarashire,Texas,Cameroon,2024-10-05,REGULAR
+CUST00261,Brian Mendoza,taylorandrea@example.com,5695375150,Female, Jamesland,Ohio,Thailand,2024-10-15,REGULAR
+CUST00262,Tina Daugherty,ulee@example.net,+1-780-756-2656x504,Male,Tiffanyside,Colorado,Cuba,2024-10-12,REGULAR
+CUST00263, Jennifer Ramos ,lindawaller@example.com,001-862-399-1234x7851,Male,South Danielleview,Nebraska,China,2024-12-06,REGULAR
+CUST00264,Nicole Taylor,marisaroberts@example.com,2494478730,Female,Kevinfort,Delaware,Palau,2023-06-13,PREMIUM
+CUST00265,john watts,anthonyhubbard@example.com,395-797-9647,Other, Port Jordanshire,Arkansas,Cameroon,2023-09-21,REGULAR
+CUST00266,Michael Howard,nelsonrobert@example.com,4447818321,Other,Margaretport,Louisiana,Poland,2024-02-01,PREMIUM
+CUST00267,Kevin Morrow,taylorjuan@example.com,(352)813-2833x89888,Male,Moonville,Florida,Uzbekistan,2021-02-23,REGULAR
+CUST00268,Eric Cox,mpreston@example.net,001-352-840-1322x34232,Other,North Andrewfort,Wisconsin,Jersey,2021-05-13,REGULAR
+CUST00269,Andrew Keller,harrisonrebekah@example.org,440-711-9393,Female,North Dustinview,Pennsylvania,Guernsey,2023-12-31,REGULAR
+CUST00270,Jonathan Chandler,williamjones@example.net,001-408-933-4280x13875,Male,East Maryfurt,Nevada,Croatia,2025-05-17,REGULAR
+CUST00271,Brian Rollins,owensapril@example.com,001-954-580-1571x64794,Other,Robertschester,Illinois,Togo,2021-08-05,REGULAR
+CUST00272,Rebekah Crosby,harry71@example.com,581.712.6691x215,Other,New Megan,Montana,British Virgin Islands,2022-12-25,REGULAR
+CUST00273,MOLLY RAMIREZ,katelyn65@example.com,+1-496-278-4271x14773,Female,Lake Brianland,New York,Philippines,2021-03-25,VIP
+CUST00274,Janet Shelton,kevinhanson@example.org,+1-287-273-4778x48588,Female,Beardville,Missouri,Korea,2023-09-05,VIP
+CUST00275,Jessica Johnson,angeladalton@example.com,001-927-962-4671x978,Female,New Brian,Kentucky,Lithuania,2024-03-19,REGULAR
+CUST00276,HEATHER LEVINE,bryan90@example.org,(259)505-6165x565,Male,East Deborah,Pennsylvania,Belize,2021-07-23,REGULAR
+CUST00277,ASHLEY JACKSON,benjamin69@example.net,(340)579-0569x65917,Female,Tylermouth,Hawaii,Nicaragua,2023-07-20,REGULAR
+CUST00278,Jeffrey Crawford,pittmanamanda@example.com,604-396-3919x195,Female,Simmonsstad,California,Pakistan,2023-07-27,REGULAR
+CUST00279,Elizabeth Alvarado,james64@example.net,878.220.8297x37489,Male,West Steven,Kansas,Canada,2023-07-22,REGULAR
+CUST00280,Jennifer Dalton,waltersmeghan@example.com,924-993-6312x3034,Other,Hendersonton,Illinois,Cayman Islands,2023-04-28,REGULAR
+CUST00281,David Lara,dawnwilliams@example.net,500.315.9416x5162,Female,New Elizabethshire,Wyoming,Venezuela,2025-06-20,PREMIUM
+CUST00282,stephen young,mejialawrence@example.net,001-263-963-2123x4764,Female,Hollyville,Massachusetts,Mayotte,2024-08-09,PREMIUM
+CUST00283,David Ramirez,michaelbaldwin@example.com,7903034864,Other,Port Scott,Alabama,United States of America,2024-05-05,REGULAR
+CUST00284,tabitha turner,kennethvillarreal@example.org,456.604.1776x561,Other,West Robertside,West Virginia,Greece,2024-11-09,REGULAR
+CUST00285,Pamela Davidson,crystalgibbs@example.org,5634459112,Other,Sparksmouth,New Hampshire,Lesotho,2022-02-19,REGULAR
+CUST00286,Michael Serrano,james65@example.org,(469)230-0893x1734,Other,Williamsonview,Georgia,Benin,2024-02-18,REGULAR
+CUST00287,Keith Smith,dayala@example.net,513.633.4476x2639,Other,South Henry,Georgia,Antarctica (the territory South of 60 deg S),2023-06-21,REGULAR
+CUST00288,CYNTHIA HAYES,mikesutton@example.com,607-325-6366,Female,New Brianmouth,Kansas,Latvia,2024-01-06,REGULAR
+CUST00289, Teresa Coffey DDS ,smithwilliam@example.com,965-428-0924x2875,Male,West Jenniferchester,Georgia,Eritrea,2021-12-30,REGULAR
+CUST00290,William Porter,julie64@example.com,+1-548-456-2572x870,Other,East Isaacfort,Kentucky,Central African Republic,2024-12-22,VIP
+CUST00291,Zachary Ho,alexandervanessa@example.net,677.512.1513x4228,Male,New Katieburgh,Nebraska,Uruguay,2021-08-27,REGULAR
+CUST00292,Jonathan Davis,anthony16@example.com,001-615-220-1777,Female,Taramouth,Massachusetts,Yemen,2022-02-06,VIP
+CUST00293,ANTHONY SCHNEIDER,lauren18@example.net,(616)442-3610x3266,Other,West Travischester,West Virginia,Sri Lanka,2023-08-22,REGULAR
+CUST00294,Lindsey Howard,collierwilliam@example.com,867.849.9616x592,Female,North Williammouth,Utah,Czech Republic,2022-04-27,PREMIUM
+CUST00295,Kelsey Holland,robertssamuel@example.com,322-843-8649x0810,Other,Davisshire,Kentucky,Guinea,2023-03-03,VIP
+CUST00296,Patricia Smith,lwhite@example.com,6167459779,Female,East Jacob,West Virginia,Netherlands,2023-03-17,PREMIUM
+CUST00297,ASHLEY FERGUSON,fosteralexander@example.net,476.297.4995x6412,Other,North Lisa,Vermont,Comoros,2021-03-25,REGULAR
+CUST00298,Matthew Santos,ywilkinson@example.net,414.472.7601,Other,Maynardfort,Alaska,Tokelau,2024-10-28,REGULAR
+CUST00299,Christina Hudson,awilliams@example.org,+1-966-579-9840x7678,Male,New Andrewshire,Massachusetts,Micronesia,2021-07-17,REGULAR
+CUST00300,Matthew Small,simpsonsheila@example.com,760.924.3757x383,Female,West Jennifer,Missouri,Israel,2024-01-25,REGULAR
+CUST00301,Rebecca Richard,justincurry@example.net,222.232.9716x7433,Male,Nicolestad,Utah,Cayman Islands,2022-06-27,REGULAR
+CUST00302,Stephanie Johnson,morgandaniel@example.org,683-474-5508,Female,Lake Brentmouth,New Jersey,Tajikistan,2021-12-11,REGULAR
+CUST00303,Rachael Lynch,colonbobby@example.org,(313)452-4787,Other, Matthewberg,Delaware,Thailand,2022-09-20,PREMIUM
+CUST00304, Jason Mack ,marywells@example.com,821.845.6532x86326,Male,Cranehaven,Utah,Guyana,2021-04-03,VIP
+CUST00305,randy robbins,millerleroy@example.org,(706)202-9084x66845,Female,Rachelberg,Vermont,Iraq,2024-10-18,PREMIUM
+CUST00306,stacy weber,zterry@example.net,(334)610-8562x8843,Other, Katherineburgh,Alaska,Antarctica (the territory South of 60 deg S),2023-03-15,REGULAR
+CUST00307,Raymond Barber,dennismckenzie@example.com,+1-585-710-1749x0753,Male,Justinshire,Utah,Burundi,2024-03-19,PREMIUM
+CUST00308,danielle murphy,mackenzieward@example.org,,Female,Lake Ronald,Nebraska,Belgium,2021-10-14,PREMIUM
+CUST00309,Stephen Alvarez,rmiller@example.net,(498)486-4976x7762,Female, Dawsonberg,Virginia,Malaysia,2022-01-02,PREMIUM
+CUST00310, Joy Johnson ,sherrywood@example.org,+1-661-715-9408x215,Male,Kellytown,Georgia,Cambodia,2024-08-03,REGULAR
+CUST00311, Steven Small ,isaacsingh@example.org,985-710-6794,Female,Alvarezberg,Wisconsin,Burundi,2025-04-18,VIP
+CUST00312, pamela contreras ,michellenguyen@example.net,+1-696-363-6580x74120,Male,East Stephanieside,Oregon,Saudi Arabia,2021-06-14,REGULAR
+CUST00313,Kelly Christensen,martinezsharon@example.org,7438397189,Other,South Michelletown,Michigan,Jordan,2022-07-15,PREMIUM
+CUST00314,Scott Stewart,christopher18@example.org,222-241-2462x0952,Male,Petermouth,Georgia,Isle of Man,2023-10-05,REGULAR
+CUST00315,TODD LAM,harriskaren@example.net,978.886.1405,Other, South Anthonybury,Alaska,Ethiopia,2021-11-12,VIP
+CUST00316,Justin Glover,ashley71@example.net,632.458.2386x87007,Other,North Sarahfort,Louisiana,Netherlands Antilles,2023-02-19,PREMIUM
+CUST00317, Jamie Bell ,brendadixon@example.org,(689)814-1612,Male,New William,Massachusetts,Turks and Caicos Islands,2023-12-01,VIP
+CUST00318,veronica zimmerman,john55@example.org,995.802.0970x026,Male, Port Nancyland,Ohio,Antarctica (the territory South of 60 deg S),2024-10-15,REGULAR
+CUST00319,Heather Hess,paul01@example.com,(537)503-0453x194,Male,Coffeyton,Louisiana,Lithuania,2022-10-12,PREMIUM
+CUST00320, William Little ,kaneashley@example.com,(483)399-9219,Other,West Sarah,Iowa,Turkmenistan,2025-06-14,REGULAR
+CUST00321,Denise Abbott,braunheather@example.net,+1-948-970-6056x641,Male,Zacharyton,Washington,Czech Republic,2021-05-26,PREMIUM
+CUST00322, Jason Cole ,myersmatthew@example.net,3363133254,Male,South Ryantown,Pennsylvania,South Georgia and the South Sandwich Islands,2023-11-05,VIP
+CUST00323, danielle wells ,marissa58@example.org,299-271-7911,Other,Edwardsland,Florida,Bahamas,2024-10-04,VIP
+CUST00324,Leslie Reynolds,byrdanita@example.com,(361)796-3990x7676,Female,South Zacharyshire,Illinois,Botswana,2021-11-16,REGULAR
+CUST00325,Micheal Watkins,rebeccamartinez@example.net,656-879-7232x002,Female,Larryside,Wyoming,Cameroon,2022-04-03,REGULAR
+CUST00326,Larry Carter,holmesdiane@example.org,5383806533,Male,Jaimefort,Vermont,Puerto Rico,2024-12-23,PREMIUM
+CUST00327,Erin Lane,christina65@example.org,570-573-0337,Female,Navarromouth,West Virginia,Honduras,2022-09-30,PREMIUM
+CUST00328,RONALD SMITH,jonesanthony@example.org,(547)639-5003,Male,East Nicole,Washington,China,2023-11-22,REGULAR
+CUST00329,Danielle Gonzalez,meganlozano@example.org,+1-826-315-3473x55289,Male,East Nicoleberg,Illinois,Congo,2024-03-21,REGULAR
+CUST00330,EMILY JORDAN,samanthahines@example.net,984.525.3042,Other,Port Thomasland,Hawaii,Malawi,2024-04-20,REGULAR
+CUST00331,Maria Hicks,lstone@example.com,001-558-577-7496x903,Male,Royfurt,Indiana,Gambia,2024-08-13,REGULAR
+CUST00332,laura walls,jonathan12@example.org,978-853-9078x9567,Other,Richardsonfort,Massachusetts,Faroe Islands,2024-04-02,PREMIUM
+CUST00333,jeremy baker,howardchristopher@example.net,781.643.1115x08353,Female,Julieview,Illinois,Romania,2022-03-05,REGULAR
+CUST00334,Dr. Nancy Gaines MD,juan56@example.com,001-907-582-6333,Female,Sharpmouth,Michigan,Somalia,2021-09-24,REGULAR
+CUST00335,COLE CARRILLO,cclark@example.net,7525924075,Other,Simmonsfurt,Wisconsin,Slovakia (Slovak Republic),2023-07-20,REGULAR
+CUST00336,ALEXANDER FLOYD,ericcisneros@example.com,001-899-596-6361,Female,Rodriguezshire,New Hampshire,Northern Mariana Islands,2023-08-05,PREMIUM
+CUST00337, BRIAN TRAN ,serranocarrie@example.org,(331)964-3348,Other,West Aprilburgh,Massachusetts,Tokelau,2024-06-30,REGULAR
+CUST00338,WILLIAM ANDERSON,emendoza@example.com,623.546.7299,Male,Hilltown,Georgia,Kiribati,2021-07-18,REGULAR
+CUST00339, Lisa Wright ,renee77@example.com,001-401-847-5469,Male,East Rachel,Washington,Jersey,2024-11-23,PREMIUM
+CUST00340,matthew hale,longsonya@example.org,(348)741-3768,Female,Port Danielmouth,Nebraska,Korea,2022-05-28,REGULAR
+CUST00341,Jonathan Murray,fowleremma@example.com,(956)336-0041x2577,Other,New Dianemouth,Florida,Latvia,2023-05-18,VIP
+CUST00342,Carolyn Smith,thompsondavid@example.net,(921)204-2752x3083,Male,South Hannahmouth,Arkansas,Netherlands Antilles,2021-01-15,REGULAR
+CUST00343,James Harris,nicholasallen@example.org,4604053131,Female,South Williammouth,Massachusetts,Monaco,2022-08-12,REGULAR
+CUST00344,Taylor Foster,nmartinez@example.org,(652)706-5063x731,Female,North Nicolechester,Maryland,Seychelles,2025-04-02,VIP
+CUST00345,MRS. KIMBERLY MOONEY,johnathandavis@example.com,+1-862-552-5715x0997,Female,East Andrewville,Maryland,Dominica,2024-08-24,REGULAR
+CUST00346,Lisa Brown,victor32@example.com,203.897.5245,Male,Karenbury,Washington,Greenland,2023-12-01,REGULAR
+CUST00347,Joshua Knox,lauriehorton@example.org,+1-468-552-7017x130,Female,North Glenn,Oklahoma,Switzerland,2022-09-27,PREMIUM
+CUST00348,Blake Hardy,frank33@example.com,(993)344-9734,Other,Raymondburgh,New Mexico,Kazakhstan,2024-08-06,PREMIUM
+CUST00349,nancy wolf,ysmith@example.com,949-682-8246,Other,Campbellside,Rhode Island,Liberia,2021-08-12,VIP
+CUST00350,Miguel Gonzalez,adamhensley@example.net,001-257-366-6567x4916,Male,Frederickburgh,Illinois,Serbia,2024-09-17,PREMIUM
+CUST00351,Patricia Walton,william75@example.net,4666337050,Male,Blackburnberg,Kentucky,Egypt,2022-05-17,REGULAR
+CUST00352, Ray Newman ,lsanders@example.org,336.726.4488x69461,Female,West Kaitlyn,West Virginia,Indonesia,2023-08-16,REGULAR
+CUST00353,christopher vasquez,jonesheatherexample.net.invalid,(546)422-5223x72817,Other,North Karen,Wisconsin,Congo,2023-03-17,VIP
+CUST00354,dr. jessica durham,oneillgabriel@example.com,961-941-5093,Male,North Brucetown,Texas,Myanmar,2021-05-11,VIP
+CUST00355,Joseph Smith,sarah75@example.net,(255)955-3566x90551,Female,Hardyberg,Alaska,Netherlands,2022-01-17,REGULAR
+CUST00356,DIANA LYONS,miguelmontgomery@example.net,986.830.5050x5739,Male,West Ronniefort,Texas,Togo,2021-11-09,REGULAR
+CUST00357, Elizabeth Lee ,mollywalter@example.net,502.571.4872x71783,Male,Port Sheryl,Vermont,Benin,2021-11-24,REGULAR
+CUST00358, mike martin ,raven43example.net.invalid,771-828-7153x991,Female,Valdezside,Nevada,Sri Lanka,2022-12-27,PREMIUM
+CUST00359,Brian Miller,petersonbrittany@example.org,001-519-852-5690x4098,Other,Floresstad,Utah,Vietnam,2022-01-28,VIP
+CUST00360,lindsay walker,dsmith@example.com,(243)777-2942,Male,Wayneville,Louisiana,Thailand,2025-01-25,REGULAR
+CUST00361,cindy carter,zbrown@example.com,(233)802-7642,Male,Robertofort,Minnesota,Saudi Arabia,2024-04-30,VIP
+CUST00362,Joseph Campbell,jacquelinekelley@example.org,(959)904-7292,Male,Phyllisborough,Indiana,Spain,2022-08-31,REGULAR
+CUST00363,Alexa Barber,gregoryvanessa@example.org,(862)401-5720x1859,Other,Sanchezville,Kansas,Indonesia,2025-02-27,REGULAR
+CUST00364,Kyle Thompson,yparsons@example.net,+1-517-264-7501x11178,Other,Hillville,Pennsylvania,Cocos (Keeling) Islands,2024-04-07,PREMIUM
+CUST00365,MR. JEFFREY DUNCAN,nguyenjennifer@example.net,(360)568-8871,Other,East Michelleburgh,Alabama,Moldova,2024-10-21,VIP
+CUST00366, barbara anderson ,denisemiller@example.com,001-601-918-4582x60340,Female,New Tracy,Massachusetts,Mali,2023-12-30,REGULAR
+CUST00367,Kayla Watts,youngjacob@example.com,829.383.9542,Female,Jorgeburgh,Montana,Korea,2021-09-16,REGULAR
+CUST00368,Megan Bentley,amandajones@example.net,235-598-9262x566,Male,West Davidville,Utah,Mexico,2024-06-17,REGULAR
+CUST00369,Mark Cox,kimberly23@example.com,6169361128,Male,New Michaelshire,Maine,Micronesia,2023-04-23,REGULAR
+CUST00370,STEPHANIE JACKSON,zwhite@example.net,+1-888-696-7924x08222,Female,Lake Daniellestad,Virginia,Slovakia (Slovak Republic),2023-02-13,REGULAR
+CUST00371,Jennifer Ellis,zandersen@example.com,544.368.3414x65111,Other,New Brian,West Virginia,France,2025-03-12,REGULAR
+CUST00372,ALEXANDRA VAUGHAN,timothyrobertson@example.net,+1-716-509-3068,Other,New Shaneburgh,Utah,Venezuela,2025-06-15,VIP
+CUST00373,Carrie Richardson,williefarley@example.com,662.551.5381x4474,Male,Lake Crystalfurt,Indiana,Uzbekistan,2023-08-06,REGULAR
+CUST00374,TINA ROBERTSON,wallspatricia@example.com,2507975451,Male,South Michael,Connecticut,Jersey,2025-03-09,REGULAR
+CUST00375,Joseph Roach,fmartinez@example.org,(443)676-5456,Female,South Dianamouth,Hawaii,Burundi,2024-01-05,REGULAR
+CUST00376,abigail stephenson,danielmitchell@example.org,(465)702-3741x6787,Female,Shawfurt,Florida,Bouvet Island (Bouvetoya),2021-12-02,REGULAR
+CUST00377,Beth Cooper,saundersjoel@example.net,469-506-7447x16392,Female, Katieview,Vermont,Egypt,2024-08-26,REGULAR
+CUST00378,Michael Patrick,jacobbond@example.net,+1-523-312-6043x2609,Female, South Richardport,Vermont,North Macedonia,2022-12-21,REGULAR
+CUST00379,Jeffery Brown,tschneider@example.org,754-556-3502x000,Female,Thomasville,Nevada,Colombia,2023-02-23,REGULAR
+CUST00380,Heidi Torres,caldwellfelicia@example.org,455-398-9534x39611,Other, New Tanyaborough,Illinois,Romania,2024-10-16,REGULAR
+CUST00381, Angela Payne ,kevin73@example.net,001-820-323-6848x5571,Male,Barneshaven,Alaska,Chad,2023-05-02,REGULAR
+CUST00382,betty williams,bauerheather@example.net,(678)581-2786x8669,Female,North Ernest,Indiana,Nauru,2021-01-28,REGULAR
+CUST00383,RACHEL GIBSON,kevin34@example.net,481-623-0834x024,Female, Lake Tinaborough,Ohio,Brazil,2021-01-05,VIP
+CUST00384,Mackenzie Compton,christopher84@example.net,(669)445-0053,Other,Teresaside,Texas,Trinidad and Tobago,2021-11-27,REGULAR
+CUST00385,melissa bautista,molly98@example.org,435.943.9627x365,Male,South Hunterburgh,Idaho,Comoros,2025-03-04,REGULAR
+CUST00386,catherine campbell,frank26@example.net,+1-231-321-6376x182,Other,Cruzville,Alabama,Serbia,2021-05-16,REGULAR
+CUST00387,randy adams,sparksalbert@example.org,,Female,Melissaland,Illinois,Burundi,2025-02-01,REGULAR
+CUST00388,Stephanie Ochoa,martin23@example.org,+1-348-810-0184,Female,North Rhonda,Alaska,Denmark,2024-08-20,REGULAR
+CUST00389,Harry Mitchell,tmcdaniel@example.org,221.431.4519x5151,Male,South Alyssa,Rhode Island,Cocos (Keeling) Islands,2024-08-14,REGULAR
+CUST00390, michael turner ,michael14@example.com,+1-854-610-2252x67711,Female,North Marcus,Florida,Cocos (Keeling) Islands,2024-04-11,REGULAR
+CUST00391,Johnny Olson,oguzman@example.com,(536)868-7887,Female,New Jenniferhaven,Oregon,Singapore,2022-11-13,PREMIUM
+CUST00392, Cynthia Smith ,coxthomas@example.org,805-552-4728,Male,Port Jeffrey,West Virginia,Burundi,2021-12-31,PREMIUM
+CUST00393,Michele Bennett,hortonroger@example.org,001-519-317-9202x521,Male,New Mariahchester,Georgia,Serbia,2022-07-21,REGULAR
+CUST00394,Charles Rose,theodore57@example.net,001-804-812-0092x820,Female,Spencerview,Oregon,Macao,2023-08-09,REGULAR
+CUST00395,jessica moore,boydtiffany@example.org,001-736-890-3628x9177,Female,Martinstad,Tennessee,Jamaica,2022-08-29,REGULAR
+CUST00396,brian cox,anthony42@example.net,213-590-4383,Male,Christophershire,Oregon,Aruba,2025-02-12,REGULAR
+CUST00397,Ernest Harding,hooperkaren@example.com,835.965.2156x81820,Male,West Evanmouth,Colorado,Turks and Caicos Islands,2021-10-17,REGULAR
+CUST00398,Crystal Lewis,kaylamartin@example.net,598.357.2545x96063,Other,New Courtney,New York,Bhutan,2021-02-16,REGULAR
+CUST00399,SETH PAYNE,portershawn@example.org,621-949-5511x2747,Female,North Teresa,New York,Armenia,2024-02-04,VIP
+CUST00400,Jennifer Vincent,scotthunt@example.net,351-668-7409x03802,Male,Moorefurt,California,Czech Republic,2024-04-21,REGULAR
+CUST00401,Maureen Bailey,dday@example.org,721-766-3651,Female,Lewisfort,Delaware,Fiji,2024-11-13,REGULAR
+CUST00402,Christopher Harrison,lukejohnson@example.net,001-360-456-7303x06442,Male,West Richardport,Virginia,Korea,2024-07-28,REGULAR
+CUST00403,Mckenzie Green,davisrachel@example.com,001-242-535-6778x26596,Male,Lake Elizabethberg,Massachusetts,Papua New Guinea,2023-09-11,PREMIUM
+CUST00404,Steven Peck,hlin@example.net,(448)807-2791x03368,Other,West Jason,Illinois,Philippines,2021-02-14,REGULAR
+CUST00405,Jack Turner,wayne17@example.net,866.755.8685x127,Female,New Brooke,Ohio,Jordan,2024-03-31,REGULAR
+CUST00406,Matthew Frazier,jacqueline11@example.org,909-261-7981,Male,Melissaborough,Iowa,Singapore,2024-11-13,REGULAR
+CUST00407,ASHLEY GATES,belllaura@example.com,(260)253-8444x46306,Male,East Krystalhaven,West Virginia,Netherlands Antilles,2023-09-14,REGULAR
+CUST00408,tyler haney,angelamyers@example.net,+1-560-396-2626x5826,Other,New David,Oregon,Slovenia,2024-05-02,REGULAR
+CUST00409,LORI GREEN,stacyharris@example.org,8602920981,Male,South Cynthia,Wyoming,Guinea-Bissau,2022-08-03,REGULAR
+CUST00410,steven phillips,jessicaroman@example.com,001-440-641-2091x17911,Male,Patricialand,California,Lithuania,2024-01-28,REGULAR
+CUST00411,Christine Garcia,gutierreztommy@example.net,236-465-7224,Female,North Theresastad,New Mexico,Nicaragua,2021-01-16,REGULAR
+CUST00412,PATRICK HOUSE,catherineherrera@example.net,923.551.3052x31244,Female,West Jeanport,New Jersey,Samoa,2025-03-21,REGULAR
+CUST00413,travis nielsen,gerald46@example.org,001-694-723-7676,Other,New Patrickborough,Oregon,Guinea,2024-03-07,VIP
+CUST00414, Sabrina Cole ,rubiojohnny@example.com,398-556-0125x6253,Male, Nathanmouth,Delaware,Algeria,2023-09-17,VIP
+CUST00415,Michelle Lewis,rachel81@example.com,793-783-1849x1966,Other,East Brandon,New York,Luxembourg,2021-05-26,REGULAR
+CUST00416,jennifer martinez md,brittany39@example.org,209-307-4260x8805,Other,Davischester,Washington,Gabon,2023-05-04,REGULAR
+CUST00417,Gregory Miller,troy06@example.com,001-377-715-9103x002,Other,Perezland,Illinois,Saint Kitts and Nevis,2024-02-21,PREMIUM
+CUST00418,Kimberly Smith,greenkristen@example.org,4419459642,Other,East Luisberg,Wisconsin,Myanmar,2024-07-08,REGULAR
+CUST00419,Mary Boyd,beckystanley@example.com,273-514-4158x33117,Other,Lake Jasonfurt,Illinois,Libyan Arab Jamahiriya,2021-11-21,REGULAR
+CUST00420,Robert Gill,kathleen47@example.net,(581)823-5679,Male,North Joshua,Hawaii,Poland,2023-08-13,REGULAR
+CUST00421,LAURA GARCIA,vwalter@example.org,707.624.0787,Female,New Christopherchester,Indiana,Canada,2024-05-18,PREMIUM
+CUST00422, Katie Brown ,mitchell06@example.net,(234)536-2948x97861,Male,East Dariuston,Oregon,Ethiopia,2023-01-12,REGULAR
+CUST00423,Brian Perez,gmyersexample.org.invalid,001-947-632-3549x4012,Male,East Leslie,California,Chad,2022-08-06,VIP
+CUST00424,Jesse Rivers,bpatterson@example.org,312-209-5790x737,Female,New Erinport,Iowa,Malta,2025-04-13,REGULAR
+CUST00425,CHARLES DAVIS,linda57@example.com,001-958-347-4570x5458,Other,Ginatown,Georgia,Isle of Man,2022-11-16,REGULAR
+CUST00426,Brenda Jimenez,beckydominguez@example.com,(731)736-1487x824,Male,Lawrenceview,Maryland,Comoros,2021-05-08,REGULAR
+CUST00427,mia flowers,hamiltonspencer@example.com,,Female,Danieltown,New York,Vanuatu,2022-04-03,PREMIUM
+CUST00428,Chris Levy,kevinroberts@example.com,6702349107,Female,Belltown,Arkansas,El Salvador,2022-03-04,REGULAR
+CUST00429,Douglas Trevino,stephaniereeves@example.org,001-836-391-4307x5366,Female,Samanthaport,Idaho,Mongolia,2024-09-16,PREMIUM
+CUST00430,Erica Lane,johnbutler@example.org,941-749-7826x6128,Other,Taylorchester,New Jersey,Italy,2024-06-28,REGULAR
+CUST00431,Thomas Johnson,idavis@example.net,839-285-2989x4062,Other,Aguirrehaven,New Jersey,Taiwan,2021-06-18,REGULAR
+CUST00432,Devin Andersen,cookconnor@example.com,001-475-901-9803,Male,East Patty,South Dakota,Timor-Leste,2022-04-26,REGULAR
+CUST00433,eric hays,shaffercindy@example.org,510-329-1813,Male,Johnsonhaven,New Hampshire,India,2021-06-22,REGULAR
+CUST00434,elizabeth webb,loriskinner@example.net,597-991-6202x232,Other,Robertsville,Pennsylvania,Lithuania,2024-02-16,REGULAR
+CUST00435,Jeanne Wolfe,marshalllisa@example.org,2479196094,Male,West Sydneymouth,Washington,Kuwait,2023-05-11,PREMIUM
+CUST00436,CHRISTOPHER MASON,michaelmccarthy@example.com,812.925.9572x44617,Male,New Jeanette,North Carolina,Singapore,2025-06-21,REGULAR
+CUST00437, Michael Chapman ,breanna61@example.org,,Female,Port Jessicabury,Connecticut,Papua New Guinea,2021-11-27,VIP
+CUST00438,mr. franklin hall dds,danielgilmore@example.net,(461)709-4101x7590,Female,Lake Shannonberg,South Dakota,Montserrat,2022-09-13,VIP
+CUST00439, John Shelton ,jamesmartin@example.net,719.801.3020,Male,West Jacobhaven,New York,Comoros,2022-10-07,VIP
+CUST00440,Kara Bell,lauriegonzales@example.net,(719)212-8411x7309,Female,Port Shelia,Kentucky,Iceland,2024-01-17,REGULAR
+CUST00441,Seth Donaldson,fergusonjohn@example.net,+1-284-769-0819x740,Male,Greenmouth,Wisconsin,Bahamas,2022-03-09,REGULAR
+CUST00442,Robert Rivera,youngcharles@example.net,+1-205-316-9918x724,Female,South Williamstad,Nevada,Lesotho,2023-08-01,REGULAR
+CUST00443,Sherri Perez,johnsonkimberly@example.org,+1-496-808-7066,Female,Dunnville,New Hampshire,British Indian Ocean Territory (Chagos Archipelago),2024-02-17,PREMIUM
+CUST00444, Greg Hull ,jessechapman@example.org,(789)700-3010x27240,Female,West David,Montana,Lesotho,2022-01-16,REGULAR
+CUST00445,angela mays,troymoss@example.com,,Male,South Jennifer,Mississippi,Slovakia (Slovak Republic),2023-06-29,PREMIUM
+CUST00446,dana orozco,heidi81@example.org,(569)374-1328x348,Male,Jennyberg,Arizona,Dominica,2024-09-29,REGULAR
+CUST00447,Jordan Wilson,rhuff@example.com,001-264-810-4967,Male,Wallacebury,Indiana,Hong Kong,2022-07-27,REGULAR
+CUST00448,Kim Guerrero,weavermichael@example.org,+1-854-693-0596x601,Other,Colemanshire,Wyoming,Maldives,2023-03-20,REGULAR
+CUST00449,James Reese,davidsmith@example.net,613-684-5960x945,Female,North Kurtmouth,Kentucky,Tanzania,2022-07-10,REGULAR
+CUST00450,Alan Smith,churchtimothy@example.net,360.991.4985,Other,West Katie,Louisiana,Eritrea,2025-03-18,REGULAR
+CUST00451,mark thomas,halldiamond@example.org,+1-287-595-0830x44058,Male,Danielhaven,New Hampshire,Bouvet Island (Bouvetoya),2025-05-07,REGULAR
+CUST00452, Damon Hudson ,bjones@example.com,(605)295-5657,Other,West Bradley,Georgia,United States Minor Outlying Islands,2021-03-21,REGULAR
+CUST00453,DANIEL EDWARDS,shelby69@example.org,+1-226-911-3989x86818,Female,Stewartborough,Oregon,French Polynesia,2023-01-29,REGULAR
+CUST00454, Robert Madden ,stephengoodman@example.org,001-537-965-1588x157,Male,Hallberg,Ohio,Ecuador,2024-06-20,VIP
+CUST00455,MARY JACOBS,matthew11@example.com,(982)397-3270x21648,Other,Port Austin,Nevada,Anguilla,2022-06-03,REGULAR
+CUST00456,BRANDI CAMACHO DVM,zgomez@example.net,+1-334-215-5999,Female,Lake Samanthamouth,Nebraska,Norfolk Island,2024-10-29,REGULAR
+CUST00457,Jessica Todd,jessicacummings@example.net,612.309.9576x57289,Male,West Trevor,Arkansas,Mongolia,2025-05-28,REGULAR
+CUST00458, Lauren Anthony ,ymitchell@example.com,001-422-303-6849x95154,Other,Joshuamouth,Iowa,Turks and Caicos Islands,2022-06-11,PREMIUM
+CUST00459, Thomas Zhang ,middletonelizabeth@example.org,538-282-0908,Other,Walltown,Mississippi,Costa Rica,2023-05-26,REGULAR
+CUST00460,laura dennis,mariahphillips@example.org,001-517-367-4124x151,Male,Ericmouth,Louisiana,Korea,2025-05-13,PREMIUM
+CUST00461,angela watts,hamiltonsarah@example.net,938-400-3296x33472,Female,Campbellborough,South Dakota,Turkey,2021-10-03,REGULAR
+CUST00462,Shannon Curry,hamiltontravis@example.net,720.964.9693,Female,West Mary,Maine,Paraguay,2025-02-16,REGULAR
+CUST00463,Mark Harper MD,colin14@example.com,953.961.2751x562,Female,Mcdanieltown,Maine,Ethiopia,2025-04-26,PREMIUM
+CUST00464,Samuel Ortiz,jose56@example.com,866.540.4735x047,Female,New Jamie,South Dakota,Bouvet Island (Bouvetoya),2023-10-22,REGULAR
+CUST00465,JOSHUA CLEMENTS,langchristopher@example.net,658-410-8358x32863,Male,Martinborough,Oklahoma,Saint Martin,2023-02-12,REGULAR
+CUST00466,AMANDA SMITH,masonlacey@example.org,(844)803-3041,Female,Port Joy,Louisiana,Tokelau,2021-09-21,REGULAR
+CUST00467,JONATHAN WARNER,vsmith@example.net,+1-621-696-3945x680,Male,Harrisview,Tennessee,Morocco,2025-01-04,REGULAR
+CUST00468,Jeffrey Walker,ehoffman@example.com,001-588-236-0765x817,Female,Wisemouth,Mississippi,Lesotho,2021-12-05,REGULAR
+CUST00469,Evelyn Pacheco,davisgary@example.com,001-531-226-9789,Female,Kingport,West Virginia,Guadeloupe,2022-04-13,PREMIUM
+CUST00470,Michael George,adamsjason@example.net,387.853.5778x8116,Male,Port Alexander,North Dakota,San Marino,2022-01-13,REGULAR
+CUST00471,jeffrey stanton,mccluretyler@example.net,772.486.6041x64485,Other,West Alexandra,Indiana,Spain,2024-02-28,REGULAR
+CUST00472,Danielle Ford,sara22@example.net,001-570-356-2271x043,Male,Riveraton,South Carolina,Lao People's Democratic Republic,2022-05-02,VIP
+CUST00473,mark ware,courtney34@example.com,(594)659-6488x31921,Female,West Anne,Florida,South Georgia and the South Sandwich Islands,2025-06-11,REGULAR
+CUST00474, Pamela Rivera ,tammy97@example.org,(903)231-9222,Other,Christianton,Florida,Malawi,2024-09-28,REGULAR
+CUST00475,john turner,allenphillip@example.com,001-475-848-5819x324,Female,Henryview,Utah,British Indian Ocean Territory (Chagos Archipelago),2024-09-14,REGULAR
+CUST00476,cassandra cline,wtownsend@example.net,(239)683-6520x37583,Other,Clintonstad,Kentucky,Macao,2021-02-10,REGULAR
+CUST00477,AMANDA HILL,ssanders@example.net,340-290-7977x278,Male,Anthonyberg,Virginia,Saint Pierre and Miquelon,2022-07-04,REGULAR
+CUST00478,Bonnie Barnes,browndana@example.org,818-843-9055x29580,Female,North Jameshaven,Georgia,Saint Lucia,2023-04-09,REGULAR
+CUST00479,Jeremy Hill,haleyortiz@example.net,001-304-348-5157x9197,Female,East Jessicaburgh,Massachusetts,Nauru,2021-03-04,REGULAR
+CUST00480,RACHEL ROBINSON,steven34@example.net,+1-532-540-6424x2956,Female,Nicoleburgh,Maine,Eritrea,2024-09-27,REGULAR
+CUST00481,John Lane,kelsey87@example.net,+1-620-396-2893x65435,Other,West Jeffery,Kentucky,Antigua and Barbuda,2021-12-25,REGULAR
+CUST00482,Lynn Alvarez,xwillis@example.net,(490)751-5026x7551,Male,Franciscoside,Idaho,Sao Tome and Principe,2021-03-09,REGULAR
+CUST00483,Luis Watkins,esimon@example.org,859-657-6403x816,Male,Watkinsburgh,North Carolina,Chad,2023-07-23,REGULAR
+CUST00484,Traci Bender,stephaniebradley@example.org,(450)914-2576,Male,Lake Dylanburgh,Maryland,Gambia,2021-09-07,PREMIUM
+CUST00485,scott kim,ericpeters@example.com,9728517863,Female,Mccarthyville,Missouri,Brunei Darussalam,2023-09-17,REGULAR
+CUST00486, BRANDI MEJIA ,lori69@example.com,,Female,West Tracyshire,Alaska,Cyprus,2022-07-08,REGULAR
+CUST00487,Jackie Morgan,bishopkaren@example.org,+1-832-473-0346x1562,Female,Larryfort,Arizona,Eritrea,2024-08-03,REGULAR
+CUST00488,james holmes,marshallchristopher@example.net,001-816-802-5298x6707,Female,West Ronaldville,Rhode Island,Sri Lanka,2024-10-30,VIP
+CUST00489,priscilla joseph,daniel26@example.net,001-961-620-5943x89760,Male,North Mirandamouth,Mississippi,Australia,2024-02-22,VIP
+CUST00490,George Phillips,danielsguy@example.com,(307)354-0915x08632,Female,Lake Duane,New York,Jersey,2023-05-04,REGULAR
+CUST00491,Jimmy Williamson,uwilliams@example.com,8298168154,Male,East Stephanieview,Washington,Palau,2021-09-04,REGULAR
+CUST00492,Jessica Wilson,ashleycooley@example.net,883.405.9736x42480,Male,Josephchester,Indiana,Andorra,2024-07-11,PREMIUM
+CUST00493,Denise Ford,colton30@example.net,231-794-9796x95867,Other,Luismouth,Georgia,Kyrgyz Republic,2025-03-31,REGULAR
+CUST00494,Michael Chambers,richard91@example.net,485.413.8544x5770,Other,Annettechester,Wisconsin,Angola,2023-06-02,REGULAR
+CUST00495,Katherine Young,nicholasrush@example.org,863-831-9422,Female,Karenchester,Rhode Island,Fiji,2023-09-20,REGULAR
+CUST00496, Lorraine Beck ,wayne86@example.org,(477)347-2264x0857,Female,Carpenterchester,Nebraska,Isle of Man,2022-08-10,REGULAR
+CUST00497, LISA TAYLOR ,greenejessica@example.org,493-929-7150x96883,Male,Jenniferbury,Idaho,Latvia,2022-09-13,REGULAR
+CUST00498,Edward Kline,beckystevens@example.net,+1-373-227-8195x237,Female,Lake Ericahaven,New Mexico,Tokelau,2024-04-12,REGULAR
+CUST00499,jason green,baldwincatherine@example.net,001-807-370-4605x687,Male,East Melanieshire,Wisconsin,Somalia,2021-12-14,REGULAR
+CUST00500,holly douglas,robinpope@example.org,915-617-7345x475,Male,Brookeberg,Georgia,Mali,2023-06-16,REGULAR
+CUST00501,Spencer Elliott,kristopher29@example.net,577-642-2294x6430,Male,New Alexander,Mississippi,Saint Helena,2025-04-30,REGULAR
+CUST00502,Whitney Sullivan,teresaschneider@example.net,758.556.7287x27601,Other,Jamieberg,Louisiana,New Caledonia,2022-01-07,REGULAR
+CUST00503,Heather Stevens,larsenmegan@example.net,635.306.1581,Male,South Ashleybury,Kansas,Equatorial Guinea,2022-07-22,REGULAR
+CUST00504,Marilyn Sanchez,mthompson@example.com,+1-541-531-2840,Female,New Kathleen,New Mexico,Kyrgyz Republic,2021-11-02,REGULAR
+CUST00505,rachael flores,gonzalezdarren@example.org,331.989.3974x9096,Female,New Linda,South Carolina,Saudi Arabia,2024-11-18,REGULAR
+CUST00506,Darlene Russell MD,markwebb@example.com,+1-944-283-5488x4712,Male,Patriciahaven,New Mexico,Lithuania,2022-05-22,REGULAR
+CUST00507,PHILIP CHAMBERS,schaeferscott@example.net,+1-682-531-3348x45871,Female,West Eric,Wyoming,Indonesia,2022-06-18,PREMIUM
+CUST00508,lisa moore,yvaldez@example.com,001-843-847-4524x55574,Male,Smithfurt,Arkansas,Ireland,2024-01-04,REGULAR
+CUST00509,BRENDA BRYANT,andrew33@example.net,001-544-950-5665x883,Other,Danielbury,Hawaii,Greece,2025-01-30,REGULAR
+CUST00510,LESLIE CRANE,harringtonpeter@example.net,934.699.6010x5485,Other,South Dennisland,Massachusetts,Singapore,2024-07-09,REGULAR
+CUST00511,shelly lawrence,annagonzales@example.com,001-784-788-4021,Other,Burgessborough,Idaho,Gibraltar,2024-12-26,PREMIUM
+CUST00512, Jack Gonzalez ,jonathan02@example.org,+1-266-767-0808x5096,Other,Campbellmouth,South Dakota,Bangladesh,2021-08-23,REGULAR
+CUST00513,Valerie Norman,laurenmathis@example.org,001-479-731-6477,Female,East Deborahmouth,New Jersey,Marshall Islands,2024-09-05,REGULAR
+CUST00514,Jennifer Carter,osmith@example.com,(424)539-5873x95923,Female,Huntertown,Ohio,Netherlands,2021-05-03,REGULAR
+CUST00515,Kimberly Blevins,monica33@example.org,926-543-3502x7160,Other,Williamsmouth,Montana,Congo,2022-10-01,REGULAR
+CUST00516,Leslie Martinez,williamlane@example.net,523-517-9556,Female,Port Williamfort,Kentucky,Malawi,2021-12-14,REGULAR
+CUST00517,Alexis James,gross@example.com,,Other,Sonyaland,Nevada,Yemen,2023-07-24,REGULAR
+CUST00518,Michael Santos,bliu@example.com,001-250-223-2902x8227,Other,Port Jodi,Maine,Holy See (Vatican City State),2024-07-12,REGULAR
+CUST00519,Jennifer Thompson,judypatrick@example.org,(212)207-3465x495,Female,Anthonyfort,Arizona,Saint Pierre and Miquelon,2022-03-25,PREMIUM
+CUST00520,Amber Bennett,ericsmith@example.org,461-217-7687,Other,Thomasview,Florida,Gibraltar,2024-02-10,REGULAR
+CUST00521,MARY DAVIS,kgoodman@example.org,(638)322-3116,Male,East John,Washington,Palestinian Territory,2023-07-25,REGULAR
+CUST00522,William Barnett,kathleen25@example.com,(429)806-0320x203,Female,Alexanderfort,New Mexico,Togo,2023-12-05,PREMIUM
+CUST00523,sean arellano,nhayes@example.com,+1-948-971-4855x245,Other,Lake Melissahaven,Kentucky,Bahrain,2024-02-10,REGULAR
+CUST00524,Alexander Daniels,perezstephen@example.org,384-425-4768,Female,Wilkinshaven,Illinois,Cambodia,2022-11-21,REGULAR
+CUST00525,Christina Garner,annaschmidt@example.org,+1-458-538-2521,Female,New Sheri,South Carolina,Jamaica,2022-09-21,PREMIUM
+CUST00526,Tyler Rush,peter86@example.com,352.240.1484x399,Male,Taylorfort,Hawaii,Serbia,2023-01-24,REGULAR
+CUST00527,Christopher Barnes,johnbell@example.org,326-619-2372x450,Other,Port Courtneyfort,Iowa,Panama,2024-09-23,REGULAR
+CUST00528,calvin paul,whernandez@example.net,340-364-1769x27438,Female,Johnfort,Vermont,Jersey,2024-08-03,PREMIUM
+CUST00529,brian carrillo,rebecca85@example.com,+1-345-910-1739x73964,Male,Obrienfurt,Arizona,Netherlands,2021-12-01,REGULAR
+CUST00530,Rebecca Finley,wilsonkathryn@example.com,001-296-860-5779,Other,Caldwelltown,Indiana,Montenegro,2022-07-16,REGULAR
+CUST00531,tracy garcia,upham@example.com,555-753-4705x742,Female,Mullinsburgh,New York,Togo,2021-10-04,REGULAR
+CUST00532,Luis Singh,leslietorres@example.net,965-797-2634,Male,Lindastad,Wisconsin,Cayman Islands,2022-06-08,REGULAR
+CUST00533, BRIAN PERKINS ,katherine82@example.com,+1-813-411-9642x585,Male,Garciaport,South Carolina,Montenegro,2021-09-13,REGULAR
+CUST00534,DANNY MCKENZIE,amycontreras@example.com,2736333732,Female,North Meredith,New Mexico,Taiwan,2024-09-25,PREMIUM
+CUST00535,Juan Carroll,hlopez@example.net,(396)445-4655x3585,Female,Michellebury,Ohio,Mozambique,2022-02-05,REGULAR
+CUST00536,Thomas Duke,gnichols@example.net,958.937.4907,Male, Brownburgh,Alaska,Monaco,2024-10-25,REGULAR
+CUST00537,Amy Bailey,brycegomez@example.net,694-709-7626x374,Other,New Lauren,North Carolina,Yemen,2024-06-18,REGULAR
+CUST00538, JOSHUA MALDONADO ,michelle90@example.net,001-459-211-9186x23392,Female,Chandlermouth,Colorado,Bhutan,2024-06-07,REGULAR
+CUST00539,Tiffany Hughes,ejames@example.org,521-745-2647x12463,Male,West Shannonville,North Dakota,Equatorial Guinea,2021-03-05,PREMIUM
+CUST00540,Amy Hawkins,cody08@example.org,4565409951,Other,Whiteborough,Minnesota,Bhutan,2022-04-26,REGULAR
+CUST00541,LAURA VANCE,williamolsen@example.com,4904814415,Other, South Jamesberg,South Carolina,Uruguay,2023-11-15,REGULAR
+CUST00542,Tanya Kelley,hbowers@example.net,+1-815-235-2373,Male,Brianfort,Texas,Russian Federation,2021-11-03,REGULAR
+CUST00543,Ann Pena,psherman@example.org,952-373-4666x6170,Female,Annafurt,Maryland,Luxembourg,2023-06-12,PREMIUM
+CUST00544,Melissa Rose,lopezchristopher@example.net,001-298-825-0800x4635,Male,New Nathan,Vermont,Aruba,2022-10-29,PREMIUM
+CUST00545,Travis Stafford,charles37@example.org,001-590-706-3140,Female,South Margaret,Mississippi,United States Virgin Islands,2024-06-02,REGULAR
+CUST00546,CHARLES SANCHEZ,nicole69@example.net,+1-243-846-0666x4374,Female,Lake Katieberg,Texas,Portugal,2022-11-24,REGULAR
+CUST00547,brian moore,ijones@example.com,(346)348-4494,Other,Carsonborough,Colorado,Moldova,2025-03-28,REGULAR
+CUST00548,Joseph Johnson,orodriguez@example.org,(521)513-6957x2790,Female,Bradleytown,Georgia,Guam,2023-02-19,REGULAR
+CUST00549,Hayley Gonzalez,myerseric@example.com,413.423.5707x13984,Other,Brianland,Nebraska,Maldives,2021-02-24,PREMIUM
+CUST00550,Carolyn Cantu,benjamin13@example.org,(909)806-9130x9810,Male,Ginafurt,New Hampshire,United States Minor Outlying Islands,2023-01-09,REGULAR
+CUST00551,Lisa Reed,jmendoza@example.com,,Female,Jeffreyport,South Dakota,Saint Martin,2022-06-26,REGULAR
+CUST00552,Jasmine Scott,michealsmith@example.com,(507)868-3625,Male,Stephensonmouth,Washington,Korea,2024-10-11,REGULAR
+CUST00553,Julie Morgan,handerson@example.org,833.793.9578,Male,Jasonberg,New Mexico,Botswana,2024-11-06,REGULAR
+CUST00554, ROSS HAMPTON ,nwilliams@example.com,+1-826-486-2703,Male,Tonyashire,Wyoming,Cape Verde,2024-06-02,REGULAR
+CUST00555,rebecca hernandez,taylor27@example.com,+1-798-701-1100x051,Male,Lake Edward,Indiana,Gambia,2021-07-25,REGULAR
+CUST00556,Terry Silva,talvarez@example.org,941-682-2261x8962,Female,North Elizabeth,Georgia,United States of America,2024-10-14,REGULAR
+CUST00557,Andrew Beard,kgray@example.org,001-757-799-2707,Male,West Caseyberg,South Carolina,French Southern Territories,2024-05-07,REGULAR
+CUST00558,Ashley Donovan,suzanneflores@example.net,759-670-9962,Female,New Juan,North Dakota,United Kingdom,2021-03-14,REGULAR
+CUST00559,taylor williams ii,jose65@example.org,871-558-0290x904,Male,Jameston,Vermont,Peru,2023-04-20,REGULAR
+CUST00560, Gabriela Pratt ,vrussell@example.org,(348)237-4417x158,Other,Port Kathleen,Kansas,Belarus,2022-07-05,REGULAR
+CUST00561, Christian Solis ,shieldsalec@example.org,001-559-312-9751x9102,Male,North Jennifer,Colorado,Afghanistan,2024-09-07,REGULAR
+CUST00562,Crystal Williams,hughescolleen@example.org,337.492.7490x7280,Male,West Douglas,Ohio,Morocco,2022-08-12,REGULAR
+CUST00563, Michele Jones ,melindaavila@example.org,(869)649-6843,Other,Jillhaven,Alabama,Palau,2023-02-21,REGULAR
+CUST00564,Christopher Brown,ucooper@example.org,+1-661-770-1595x919,Other,Howardfort,Mississippi,Luxembourg,2023-07-22,REGULAR
+CUST00565,emily duarte,jeremyjackson@example.net,(867)275-6777x226,Other,Port Levi,South Dakota,Canada,2024-05-25,VIP
+CUST00566,JEFFREY ROTH,edwardshah@example.org,906-872-4530,Other,West Maria,Oklahoma,Fiji,2022-12-09,VIP
+CUST00567,LAWRENCE PORTER,kvalentine@example.com,+1-805-911-5794x23873,Other,West Crystalmouth,South Dakota,Georgia,2024-08-25,REGULAR
+CUST00568,Linda Moreno,jenny25@example.net,710.775.6335x3574,Female,East Tammy,South Dakota,Montserrat,2022-12-13,REGULAR
+CUST00569,Lisa Li,tracyharrison@example.org,981-862-9518x77941,Male,Port Kayla,Virginia,Cambodia,2024-02-05,PREMIUM
+CUST00570,Amy Wright,murphymallory@example.com,+1-524-357-5983,Male,Jessicaborough,North Dakota,South Georgia and the South Sandwich Islands,2025-04-16,REGULAR
+CUST00571, Richard Henderson ,evansjames@example.com,4069157276,Male,Danielview,New Jersey,Falkland Islands (Malvinas),2022-09-07,REGULAR
+CUST00572,Jody Martin,marcussmith@example.org,287-652-5680x65625,Female,Arielshire,Arizona,Turks and Caicos Islands,2025-05-09,PREMIUM
+CUST00573,MITCHELL ANDERSON,mcintoshdonald@example.org,223.815.5516x51768,Female,Nealside,Colorado,Suriname,2022-10-06,PREMIUM
+CUST00574,Brian Pruitt,jeremy08@example.org,7377003322,Male,Avilafurt,Alaska,Malawi,2023-06-19,VIP
+CUST00575,Michael Terry MD,gonzalezbarry@example.org,001-870-551-9582,Other,New Adrian,South Dakota,Samoa,2023-05-25,REGULAR
+CUST00576,JAMES PRICE,karenscott@example.org,246-814-7079x86321,Other,Lake Sarahborough,Illinois,Senegal,2023-07-17,VIP
+CUST00577,megan tanner,michael03@example.net,738-904-0325x376,Female,Guzmanburgh,New York,Lesotho,2023-06-06,REGULAR
+CUST00578,mary pace,jensennicole@example.org,+1-700-540-4769x210,Male,South Judy,Mississippi,Belarus,2023-05-20,VIP
+CUST00579,Alex Townsend,turnerjose@example.org,607-620-1137,Male,Lake Annaland,Washington,Puerto Rico,2022-04-22,REGULAR
+CUST00580,James Bennett,jimenezmaria@example.com,(609)201-4473,Male,Sylviaborough,Kansas,Portugal,2024-10-23,PREMIUM
+CUST00581,Whitney Williams,shansen@example.com,404.751.9577,Male,Jessicaside,Georgia,Gibraltar,2023-12-14,REGULAR
+CUST00582,Kevin Watson,katrina27@example.net,+1-765-961-9425,Female,Molinaburgh,Arizona,Guam,2025-04-23,REGULAR
+CUST00583, Vickie Thomas ,amber29@example.org,361.261.8808,Female,Sarahburgh,West Virginia,Denmark,2023-11-07,PREMIUM
+CUST00584,GABRIEL COPELAND MD,zmills@example.org,001-356-913-7230,Female,North Heather,Maryland,Dominican Republic,2024-06-15,REGULAR
+CUST00585,Daniel Little,andrewjohnson@example.org,821.214.7165,Other,Matthewstad,Indiana,Gabon,2024-08-24,REGULAR
+CUST00586,Tamara Reid,sheltontiffany@example.com,850-247-6816x99570,Other,Blakeland,New Mexico,El Salvador,2021-10-13,REGULAR
+CUST00587,Nathaniel Baldwin,gibsonkaitlyn@example.org,+1-470-254-8739x610,Male,Jonesburgh,New Jersey,Falkland Islands (Malvinas),2024-04-21,PREMIUM
+CUST00588,kimberly ramsey,brenda87@example.org,942.904.9561x213,Female,North Paul,West Virginia,Sri Lanka,2022-07-03,REGULAR
+CUST00589,Amanda White,michelle97@example.org,001-771-812-2299x077,Female,Lake Aliciastad,South Dakota,Mayotte,2021-11-27,REGULAR
+CUST00590,ANDREW GRAHAM,fjones@example.com,+1-957-768-3210x21923,Other,Timothyburgh,Pennsylvania,Isle of Man,2021-12-26,PREMIUM
+CUST00591,crystal hernandez,juliemyers@example.com,6804184980,Female, Samanthafort,Indiana,Comoros,2025-01-15,PREMIUM
+CUST00592,DANIEL THOMPSON,thomasdavid@example.net,(717)581-9236,Other,Richardchester,Arizona,Trinidad and Tobago,2023-09-23,REGULAR
+CUST00593,Alyssa Powers,peter93@example.net,(679)986-2398,Male,South Carolchester,California,Monaco,2021-09-21,VIP
+CUST00594,paula mejia,woodphillip@example.com,+1-454-989-5478x7698,Other,Christopherfort,Michigan,Martinique,2025-05-26,PREMIUM
+CUST00595,Amy Soto,nancy98@example.org,853-593-5435x86449,Male,Port Kayla,Maine,Comoros,2024-01-29,REGULAR
+CUST00596,Kristen Harris,lperkins@example.org,001-943-739-5275x3674,Other,West Catherine,Kentucky,British Virgin Islands,2024-03-15,VIP
+CUST00597,Victoria Smith,lisascott@example.com,389.948.9634x067,Female,Hughesville,Florida,Cocos (Keeling) Islands,2022-01-17,PREMIUM
+CUST00598,robert brown,ramirezamy@example.com,(716)630-9001,Other,Russellbury,Iowa,Niger,2023-04-09,PREMIUM
+CUST00599,Heather Young,spencerlevi@example.org,(663)989-0219,Other,North Johnchester,Iowa,Dominican Republic,2024-11-28,PREMIUM
+CUST00600,Stephanie Lowery,daniel34@example.com,001-996-973-3116,Male,Lake Pamela,South Carolina,Sao Tome and Principe,2024-03-27,REGULAR
+CUST00601,Phillip Harris,hkim@example.com,407-889-6793x52196,Female,East Leon,Montana,Falkland Islands (Malvinas),2023-02-12,REGULAR
+CUST00602,Stephanie Gray,ryu@example.net,217.906.9556,Other,Ramseychester,Colorado,Jordan,2023-03-04,REGULAR
+CUST00603,Derrick Buck,timothy23@example.net,+1-289-683-0650x3121,Male, New Sarahmouth,Georgia,French Polynesia,2022-03-17,REGULAR
+CUST00604,DIANA MOON,robertjackson@example.org,819.409.2487,Male,North Lindsey,Illinois,Netherlands,2021-08-28,PREMIUM
+CUST00605,Brian Roth,amandamaxwell@example.net,001-252-828-2305x24808,Female,East Brandon,Georgia,Tanzania,2022-02-16,REGULAR
+CUST00606,Lee Richardson,steven72@example.net,632-990-1620,Other,Byrdfurt,Oklahoma,Mauritius,2024-06-08,REGULAR
+CUST00607,Julie Holland,kristin96@example.com,862.887.2031x95419,Male,Evanstown,Massachusetts,Libyan Arab Jamahiriya,2022-09-10,VIP
+CUST00608,cindy hampton,shannongarza@example.net,(946)832-0374,Male,Marquezstad,Indiana,Kyrgyz Republic,2022-02-10,PREMIUM
+CUST00609,anthony gould,phillipsbrian@example.com,(761)594-5887x0715,Other,Sandraburgh,Alabama,Bolivia,2022-03-30,PREMIUM
+CUST00610,Kristina Brown,crystalwatson@example.com,(959)975-9545x0891,Other, Gallagherton,Texas,Slovakia (Slovak Republic),2025-04-21,VIP
+CUST00611,WALTER FITZPATRICK,trivera@example.com,001-642-223-1964x6300,Other,East Robert,Illinois,Israel,2022-04-17,REGULAR
+CUST00612,KEITH MOONEY,aaronjones@example.org,771-937-2711x759,Male,Barbaraside,West Virginia,Greenland,2023-10-12,REGULAR
+CUST00613,Mary Conley,linda33@example.org,(574)558-4760x94412,Male,South Rebecca,Connecticut,Qatar,2025-04-21,PREMIUM
+CUST00614,Patrick Barnes,kerry32@example.net,315.606.6626x7055,Other,South Natasha,New York,Vanuatu,2024-05-16,REGULAR
+CUST00615,Jennifer Atkinson,john25@example.org,+1-959-361-1110x286,Male,North Aaron,Idaho,Antigua and Barbuda,2022-02-19,PREMIUM
+CUST00616,ryan shelton,elizabeth10@example.org,351-609-1090x3267,Other,Christinahaven,California,Switzerland,2023-06-03,REGULAR
+CUST00617,JOEL PHELPS,dawngraves@example.org,693.840.6527x7584,Other,Romanbury,Maryland,Papua New Guinea,2023-10-12,REGULAR
+CUST00618,Joel Warner,millerbriana@example.org,(517)922-1455,Other,Ortizside,Washington,Namibia,2023-07-29,REGULAR
+CUST00619,christine kennedy,diazpeter@example.com,700-946-2776,Female,Port Mark,Virginia,Jamaica,2023-09-06,REGULAR
+CUST00620,nicole parrish,adrianlogan@example.com,(817)252-0238x97432,Female,Lake Michaelmouth,South Carolina,Holy See (Vatican City State),2023-11-14,REGULAR
+CUST00621,john holloway,jasoncook@example.net,001-684-986-8999x3607,Other,West Marvinchester,Pennsylvania,Niue,2021-07-15,REGULAR
+CUST00622,Shawn Hickman,sandradavenport@example.org,244.503.9464x083,Other,Allentown,Nevada,Australia,2021-08-25,REGULAR
+CUST00623,denise olsen,usmith@example.net,790-479-3884x1368,Other,North Gina,Colorado,Greenland,2023-02-03,PREMIUM
+CUST00624, alicia anderson ,gary44@example.com,(363)325-1448,Male,Port David,Alabama,Zimbabwe,2023-01-15,REGULAR
+CUST00625,Randy Blake,tammy17@example.com,388-778-1794,Female,West Gregoryborough,Ohio,Western Sahara,2023-02-17,REGULAR
+CUST00626,Susan Oliver,gayfrancis@example.com,(888)337-5056,Male,Lewisborough,South Carolina,Northern Mariana Islands,2025-02-10,REGULAR
+CUST00627,Nicole Jones,marypeck@example.com,+1-576-255-3007,Other,Andrestad,Tennessee,Guadeloupe,2024-07-15,PREMIUM
+CUST00628,adrienne edwards,gmiller@example.net,581.692.7788x51905,Female,Carterville,Arkansas,Wallis and Futuna,2023-07-22,PREMIUM
+CUST00629,Yvette Dominguez,rkidd@example.com,(318)451-7446x00452,Other,West Danielview,Wyoming,Grenada,2023-09-16,REGULAR
+CUST00630,Catherine Lewis,halljoshua@example.net,001-381-789-8484x16046,Other,Joyceberg,California,Bhutan,2021-01-13,REGULAR
+CUST00631,John Harrison,richard14@example.org,001-283-915-2291,Female,Lake Jean,Hawaii,Saint Pierre and Miquelon,2025-05-03,VIP
+CUST00632,jason maldonado,barbara37@example.net,706.439.6384,Female,Beltranchester,Pennsylvania,France,2023-04-17,REGULAR
+CUST00633,Scott Martinez,mscott@example.com,3165934292,Female,Lake Billy,Kansas,Samoa,2021-05-25,REGULAR
+CUST00634,Melinda Anderson,joshuarodriguez@example.org,+1-731-806-1537x2215,Other,Kellerview,New Hampshire,Panama,2022-09-19,PREMIUM
+CUST00635,BRIANNA PRICE,mollyhodge@example.net,977.446.0406,Other,Port Pamelaton,West Virginia,Kuwait,2025-06-17,REGULAR
+CUST00636,Jason Keith,justinthompson@example.org,681.497.5437x3476,Other,Walkerberg,Alaska,Slovakia (Slovak Republic),2022-12-30,REGULAR
+CUST00637,Janice Downs,danielgriffith@example.net,614-584-6019x134,Female,Lake Tyler,North Dakota,Afghanistan,2022-04-09,REGULAR
+CUST00638,Erin Norris,abradley@example.com,821.746.4493,Female,South Thomasborough,Kansas,Greece,2021-05-23,REGULAR
+CUST00639,heather blake,trevor68@example.org,001-311-392-3603x768,Female,Higginsbury,West Virginia,Croatia,2022-11-10,REGULAR
+CUST00640,andrew smith,rmartinez@example.net,001-673-515-3911,Other,South Hannahside,Hawaii,Palestinian Territory,2021-01-20,REGULAR
+CUST00641,Katherine Gay,gclay@example.org,293.694.0655x78201,Male,East Lynn,Iowa,Saint Pierre and Miquelon,2021-05-21,REGULAR
+CUST00642,Christina Clark,kennethbrown@example.com,492.301.3546,Other,South Nicholas,Hawaii,Holy See (Vatican City State),2021-04-20,REGULAR
+CUST00643,Melinda Orozco,millereric@example.org,(761)963-2488,Other,Port Wendy,Ohio,Panama,2022-11-01,REGULAR
+CUST00644,Jessica Carr,qramirez@example.net,303.464.6871,Male,East Jillianside,Delaware,Monaco,2025-01-29,REGULAR
+CUST00645,Matthew Marquez,brianwhite@example.org,(330)789-8138,Female,West Joseside,Florida,Sweden,2022-07-08,REGULAR
+CUST00646,John Massey,leahwalker@example.net,782-997-1681,Other,Lake Joshua,Michigan,Antarctica (the territory South of 60 deg S),2021-04-13,REGULAR
+CUST00647,penny rowe,royjennifer@example.org,429-711-3717x85090,Other,Nicholasville,North Carolina,Oman,2023-06-20,REGULAR
+CUST00648,Debbie Miller,carolineray@example.com,278-812-2489x0567,Other, Johnsonton,Alabama,Panama,2023-03-23,REGULAR
+CUST00649,Jamie Fields,wardzachary@example.net,(566)791-3624,Male,Donnastad,Maryland,Swaziland,2022-06-13,PREMIUM
+CUST00650,JAIME WILLIAMS,weberbrian@example.org,469.498.7950,Female,North Josephton,Delaware,Tonga,2024-05-01,REGULAR
+CUST00651,Joseph Zamora,greenjessica@example.net,(387)873-8363,Male,Johnland,Georgia,Qatar,2024-05-28,PREMIUM
+CUST00652,Elizabeth Jackson,rickey20@example.org,(825)486-3144x17064,Other,Sophiastad,Wisconsin,French Guiana,2021-05-12,REGULAR
+CUST00653,RICHARD GRIFFITH,matthew24@example.org,001-201-576-4644x8988,Female,West Johnhaven,North Dakota,Christmas Island,2023-05-06,REGULAR
+CUST00654,William Owens,nunezmatthew@example.com,+1-804-533-3353x84951,Female,Port Curtis,Connecticut,Rwanda,2024-11-13,PREMIUM
+CUST00655, Michelle Cobb ,obrienjames@example.net,837-232-6530,Male,North Samanthahaven,New York,Senegal,2023-10-15,REGULAR
+CUST00656,Anna Yu DVM,smithjack@example.org,2915561829,Other, Cookfort,Kentucky,Saint Lucia,2023-06-01,PREMIUM
+CUST00657,Linda Horne,nrangel@example.net,365.395.2014,Other,Danielport,Iowa,Djibouti,2024-05-18,REGULAR
+CUST00658,GRACE JOHNSON,katherinerussell@example.org,001-823-399-8213x7455,Other,West Sarahport,Florida,Mali,2024-06-19,REGULAR
+CUST00659,amanda richardson,stricklandmatthew@example.com,(566)708-1126x0030,Male,Sandersland,Wisconsin,Anguilla,2024-04-15,REGULAR
+CUST00660,Jesus Flores,corythompson@example.org,955-806-8826x917,Other,New Jason,North Dakota,Switzerland,2023-03-31,REGULAR
+CUST00661,VICTOR WILSON,peggy08@example.com,001-335-243-7882x60335,Male,Lake Mitchelltown,Rhode Island,Swaziland,2021-05-28,REGULAR
+CUST00662,Wendy Carpenter,prattjustin@example.org,8748926999,Other,Mariamouth,Colorado,Tuvalu,2025-06-11,REGULAR
+CUST00663,joseph diaz,kwalsh@example.org,(559)414-0849,Male,North Jackson,Wyoming,Sri Lanka,2022-11-24,REGULAR
+CUST00664,CHARLES COSTA,delliott@example.com,+1-508-672-6176x072,Male,New Catherine,Massachusetts,Paraguay,2024-01-30,REGULAR
+CUST00665,stephanie meyer,hufftina@example.org,(761)429-9650x826,Male,Guerreroland,Oklahoma,Hong Kong,2024-03-21,REGULAR
+CUST00666,Mark Mclean,alexisolson@example.com,,Other,Lake Mariaberg,Wyoming,Comoros,2023-09-02,REGULAR
+CUST00667,Veronica Christensen,megan46@example.net,(939)548-4002,Male,North Elizabethhaven,Nevada,Netherlands Antilles,2024-04-28,VIP
+CUST00668,Jean Murillo,basskathryn@example.net,811.239.5001,Other,Christopherland,West Virginia,Gibraltar,2021-06-18,REGULAR
+CUST00669,Raymond Roy,monicaavery@example.net,(420)253-4407x77946,Male,Mcclurefurt,Wisconsin,Tokelau,2024-07-02,REGULAR
+CUST00670,Linda Cooper,reesetravis@example.net,360.529.9140x6884,Male,East Shawn,Colorado,Vietnam,2022-02-17,REGULAR
+CUST00671,EMILY ESPINOZA,jamesmoon@example.com,378-417-0321,Female,South Danielchester,Kansas,Sweden,2025-05-14,REGULAR
+CUST00672,Emily Mcdonald,nicholas33@example.com,784-244-9029,Other,Port Randall,North Carolina,Aruba,2021-10-21,REGULAR
+CUST00673,dustin brown,qharris@example.org,(378)912-7782x2102,Female,North Courtney,Kentucky,Maldives,2024-07-28,REGULAR
+CUST00674,Joshua Navarro,rmueller@example.net,236.738.3182x856,Other,New Karen,West Virginia,Angola,2025-03-12,REGULAR
+CUST00675,leah ball,hpowell@example.com,406.373.6820x5068,Male,East Jeffrey,Minnesota,Greece,2022-05-10,REGULAR
+CUST00676,James Marks,alexis58@example.com,446-792-1821,Other,Novakton,Oklahoma,Nauru,2023-04-15,PREMIUM
+CUST00677, marcus weaver ,bentondavid@example.org,309-338-6948x42495,Other,Michaelside,North Carolina,Kuwait,2021-04-22,REGULAR
+CUST00678, JESSICA KELLY ,joestephens@example.com,(973)982-0974x6191,Female,Cruzberg,South Carolina,Morocco,2024-09-18,REGULAR
+CUST00679,Michelle Moore,lukeray@example.com,001-708-858-0623x5040,Male,Lunamouth,Utah,Korea,2021-04-30,REGULAR
+CUST00680,Calvin Ramirez,kimberlycooper@example.com,642-486-7963x259,Female, Lake Stephanie,Utah,Martinique,2023-04-17,REGULAR
+CUST00681,Sandra Walker,amyvalenzuela@example.net,756-924-1528,Other,West Paul,Oregon,Chile,2024-06-08,REGULAR
+CUST00682,CONNIE NEAL,alyssa51@example.org,718.965.5078x46850,Female,Mallorybury,Alabama,Congo,2023-08-11,REGULAR
+CUST00683,Barbara Leonard,housedanielexample.com.invalid,+1-772-503-8593x401,Male,Parkermouth,Maine,Korea,2021-12-01,REGULAR
+CUST00684,Garrett Rodriguez,michaelmercado@example.com,681.336.7500x9421,Female,Port Michaelmouth,Missouri,Nicaragua,2022-01-15,REGULAR
+CUST00685,Kelly Hoffman,katherinesmith@example.com,,Male,East Megan,North Dakota,Moldova,2023-12-19,REGULAR
+CUST00686,STEVE MCCONNELL,ubutler@example.net,767.887.4422x75854,Female,Lauramouth,Virginia,Tajikistan,2023-06-14,PREMIUM
+CUST00687,Carl Rubio,poncelisa@example.com,402-300-0245x39313,Other,Mirandaland,Indiana,Albania,2023-10-04,REGULAR
+CUST00688,ANDREW HARRIS,lpeters@example.net,944-448-8966,Male,Mccartybury,Nevada,Kiribati,2024-10-02,REGULAR
+CUST00689,EILEEN GUTIERREZ,andersonmeghan@example.net,001-525-343-1832x812,Female,East Catherine,Tennessee,Albania,2023-08-06,REGULAR
+CUST00690,amy rodgers,stonerobert@example.com,(838)375-0827,Female,Thompsonburgh,Minnesota,Lesotho,2024-12-13,REGULAR
+CUST00691, Paul Cox ,timothy62@example.net,5523918768,Female,Brownburgh,Virginia,Kazakhstan,2022-01-11,REGULAR
+CUST00692,Casey Bryant,jamescobb@example.net,599.820.5222,Male,North Jessica,Massachusetts,Palestinian Territory,2021-08-23,REGULAR
+CUST00693,cynthia pierce,peggynguyen@example.com,001-939-983-5844x617,Male,East Lindsey,Maine,Egypt,2021-03-02,PREMIUM
+CUST00694,debbie king,ucarr@example.org,(979)397-0292,Female,North Mark,Texas,United Arab Emirates,2024-12-26,REGULAR
+CUST00695,Susan Higgins,tracywoodard@example.com,(498)783-2201,Other,Danielton,Oklahoma,Comoros,2022-06-23,REGULAR
+CUST00696,Andrew Juarez,robrien@example.com,288.297.5358x52386,Male,North Joshua,Maryland,Dominica,2024-04-20,VIP
+CUST00697,Robin Wyatt,daniel15@example.org,291.302.9295,Male,Jamesview,Tennessee,Trinidad and Tobago,2025-05-08,REGULAR
+CUST00698,Logan Gonzalez,rayvictoria@example.org,497.419.1260,Other,East Ericmouth,Nebraska,Lao People's Democratic Republic,2022-03-10,PREMIUM
+CUST00699,Larry Reese,wilsonpatrick@example.org,(920)519-0725,Male,New Julie,Indiana,Argentina,2023-07-02,REGULAR
+CUST00700,jessica rogers,guerrerostanley@example.net,481-724-2114x0868,Other,New Elizabethberg,Georgia,Nepal,2023-06-10,REGULAR
