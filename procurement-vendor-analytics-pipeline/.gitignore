@@ -1,0 +1,46 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ===== Virtual Environments =====
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ===== Jupyter Notebook =====
+.ipynb_checkpoints/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Databricks =====
+.databricks/
+*.dbc
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Temporary Files =====
+*.tmp
+*.temp
+*.bak
+*~
+
+# ===== Data (optional local artifacts) =====
+data/raw/*
+data/bronze/*
+data/silver/*
+data/gold/*
+!data/raw/.gitkeep
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep

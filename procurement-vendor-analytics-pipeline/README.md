@@ -42,7 +42,7 @@ This project simulates an end-to-end enterprise **Procurement & Vendor Spend Ana
                      │
         ┌────────────▼──────────────┐
         │       SQL Analytics       │
-        └────────────────────────────┘
+        └───────────────────────────┘
 ```
 
 ---
